@@ -1,5 +1,3 @@
-import { splitWords } from "./HanziChars";
-
 export class TextToSpeech {
   static say(
     text: string,

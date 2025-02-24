@@ -4,7 +4,7 @@ import "./HanziPaint.css";
 import hanzi from "hanzi";
 import Card from "./components/Card";
 
-import { CardData, Content } from "./@types/Item";
+import { Content } from "./@types/Item";
 
 const sections: Content[] = importAll(require.context("./content", false, /\.json$/));
 
