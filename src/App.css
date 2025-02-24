@@ -24,30 +24,3 @@ h1 {
   }
 }
 
-/*
-@media print {
-  .no-print,
-  .no-print * {
-    display: none !important;
-  }
-  .no-break {
-    page-break-inside: avoid;
-    break-inside: avoid;
-    display: inline-block;
-    page-break-after: always;
-  }
-  * {
-    page-break-inside: avoid;
-    break-inside: avoid;
-    display: inline;
-  }
-  body {
-    background-color: #fff;
-  }
-  div {
-    display: grid;
-    page-break-inside: avoid;
-    page-break-inside: avoid;
-  }
-}
-*/

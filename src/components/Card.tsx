@@ -7,6 +7,16 @@ import { TextToSpeech } from "../utils/tts";
 
 type CardProps = CardData;
 
+const getFlex = (items: number) => {
+  if (items === 1) return { flexBasis: "10%", flexGrow: ".15" };
+  if (items === 2) return { flexBasis: "15%", flexGrow: ".20" };
+  if (items === 3) return { flexBasis: "20%", flexGrow: ".25" };
+  if (items === 4) return { flexBasis: "25%", flexGrow: ".30" };
+  if (items === 5) return { flexBasis: "30%", flexGrow: ".35" };
+  if (items === 6) return { flexBasis: "35%", flexGrow: ".40" };
+  return {}
+};
+
 const Card: FunctionComponent<CardProps> = (data) => {
   const { pinyin, pronounce, title, comment, titlePrefix } = data;
 
@@ -15,12 +25,10 @@ const Card: FunctionComponent<CardProps> = (data) => {
 
   const textToSay = data.textToSay || data.text;
 
-  const items = text.map((char) => (
-    <CardItem char={char} />
-  ));
+  const items = text.map((char) => <CardItem char={char} />);
 
   return (
-    <div className={styles.card}>
+    <div className={styles.card} style={getFlex(items.length)}>
       <h3 className={styles.cardTitle}>
         {titlePrefix ? `${titlePrefix} ` : ""}
         {title}

@@ -10,7 +10,7 @@
       "pronounce": "dzai jyen",
       "comment": "A common way to say goodbye in Mandarin, meaning 'see you again.'",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "👋"
     },
     {
       "text": "拜拜",
@@ -19,7 +19,7 @@
       "pronounce": "bye-bye",
       "comment": "A casual, borrowed expression from English, often used in informal settings.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "👋"
     },
     {
       "text": "再会",
@@ -37,7 +37,7 @@
       "pronounce": "yee hwer jyen",
       "comment": "Used when you expect to see the person again soon.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "🔜"
     },
     {
       "text": "明天见",
@@ -46,7 +46,7 @@
       "pronounce": "ming-tyen jyen",
       "comment": "Used when parting ways with someone until the next day.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "🔜"
     },
     {
       "text": "回头见",
@@ -55,7 +55,7 @@
       "pronounce": "hway-to jyen",
       "comment": "A casual way to say 'see you later' in Mandarin.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "🔜"
     }
   ]
 }

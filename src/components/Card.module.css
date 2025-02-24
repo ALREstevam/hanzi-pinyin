@@ -17,9 +17,17 @@
 
 @media print {
   .card {
-    border: solid 1px #ccc
+    border: solid 1px #ccc;
+    break-inside: avoid; /* Modern browsers */
+    page-break-inside: avoid; /* Older browsers */
+  }
+
+  h1 h2 {
+    break-inside: avoid; /* Modern browsers */
+    page-break-inside: avoid; /* Older browsers */
   }
 }
+
 
 .cardItemContainter{
   display: flex;

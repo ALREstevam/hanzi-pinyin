@@ -9,7 +9,7 @@ import { Content } from "./@types/Item";
 const sections: Content[] = importAll(require.context("./content", false, /\.json$/));
 
 function importAll(r: __WebpackModuleApi.RequireContext): Content[] {
-  return r.keys().map((fileName: string) => r(fileName) as Content);
+  return r.keys().sort().map((fileName: string) => r(fileName) as Content);
 }
 
 function App() {

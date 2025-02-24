@@ -40,7 +40,7 @@ const MainMeaning: FunctionComponent<MainMeaningProps> = ({ char }) => {
         .then((res) => setMeaning(res))
         .then(() => setLoading(false));
     }
-  });
+  },[char]);
 
   if (loading) return <p>Loading...</p>;
   if (error) return <p>Error: {error}</p>;

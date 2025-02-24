@@ -127,7 +127,7 @@
       "pronounce": "chrr",
       "comment": "Used in phrases like 吃饭 (chīfàn) meaning 'eat food.'",
       "type": "BASE",
-      "titlePrefix": "🍽️ "
+      "titlePrefix": "🍽️"
     },
     {
       "text": "饭",
@@ -136,7 +136,7 @@
       "pronounce": "fan",
       "comment": "Often refers to meals in general.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "🍽️"
     },
     {
       "text": "了",
@@ -145,7 +145,7 @@
       "pronounce": "luh",
       "comment": "Indicates a completed action.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "🏁"
     },
     {
       "text": "喂",
@@ -154,16 +154,7 @@
       "pronounce": "way",
       "comment": "Used when answering a phone call.",
       "type": "BASE",
-      "titlePrefix": ""
-    },
-    {
-      "text": "换",
-      "title": "Exchange / Change",
-      "pinyin": "huàn",
-      "pronounce": "hwan",
-      "comment": "Used in phrases like 换钱 (huàn qián) meaning 'exchange money.'",
-      "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "☎️"
     },
     {
       "text": "这",
@@ -172,7 +163,7 @@
       "pronounce": "jeh",
       "comment": "Used to indicate something close. Example: 这是 (zhè shì) - 'This is.'",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "👆"
     },
     {
       "text": "一",
@@ -181,7 +172,7 @@
       "pronounce": "yee",
       "comment": "The number 1 in Chinese.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "1️⃣"
     },
     {
       "text": "很",
@@ -190,7 +181,7 @@
       "pronounce": "huhn",
       "comment": "Used to intensify adjectives, e.g., 很好 (hěn hǎo) - 'very good.'",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "💯"
     },
     {
       "text": "吗",
@@ -199,7 +190,7 @@
       "pronounce": "ma",
       "comment": "Used to turn statements into yes/no questions.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "❓"
     },
     {
       "text": "虎",
@@ -208,7 +199,7 @@
       "pronounce": "hoo",
       "comment": "Refers to the animal 'tiger' and is also used metaphorically to symbolize bravery and power in Chinese culture.",
       "type": "BASE",
-      "titlePrefix": ""
+      "titlePrefix": "🐯"
     }
   ]
 }
