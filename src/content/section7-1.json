@@ -1,0 +1,25 @@
+{
+  "section": {
+    "h1": "What's your name?"
+  },
+  "items": [
+    {
+      "text": "你叫什么名字？",
+      "title": "What's your name?",
+      "pinyin": "nǐ jiào shénme míngzì?",
+      "pronounce": "nee jyao shen-muh ming-dzuh",
+      "comment": "A common way to ask someone's name in Mandarin.",
+      "type": "BASE",
+      "titlePrefix": "🗣️"
+    },
+    {
+      "text": "我叫…",
+      "title": "My name is ...",
+      "pinyin": "wǒ jiào ...",
+      "pronounce": "wǒ jyao ...",
+      "comment": "Used to introduce your name in Mandarin.",
+      "type": "BASE",
+      "titlePrefix": "🗣️"
+    }
+  ]
+}

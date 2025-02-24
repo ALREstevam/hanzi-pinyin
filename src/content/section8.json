@@ -1,0 +1,71 @@
+{
+  "section": {
+    "h1": "Thanks"
+  },
+  "items": [
+    {
+      "text": "谢谢",
+      "title": "Thanks",
+      "pinyin": "xièxie",
+      "pronounce": "xiexie",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": "🙏"
+    },
+
+    {
+      "text": "不客气",
+      "title": "No problem (casual)",
+      "pinyin": "bú kèqi!",
+      "pronounce": "bu kê tchi",
+      "comment": "Common response to 谢谢你 (Xièxie nǐ)",
+      "type": "BASE",
+      "titlePrefix": "👍"
+    },
+    {
+      "text": "还没有",
+      "title": "Not yet",
+      "pinyin": "hái méiyǒu",
+      "pronounce": "hai mei-yo",
+      "comment": "Used to indicate that something has not happened yet.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "没事",
+      "title": "No worries (casual)",
+      "pinyin": "méi shì",
+      "pronounce": "mei shrr",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "还可以",
+      "title": "It's okay / Not bad",
+      "pinyin": "hái kěyǐ",
+      "pronounce": "hai kè-yee",
+      "comment": "Used to express that something is acceptable, neither very good nor very bad.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "不用谢",
+      "title": "No need to thank me",
+      "pinyin": "bú yòng xiè",
+      "pronounce": "--",
+      "comment": "boo yong shyeh",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "没关系",
+      "title": "It's nothing/no worries",
+      "pinyin": "méi guānxi",
+      "pronounce": "mêi guã-xi",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

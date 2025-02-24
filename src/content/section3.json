@@ -1,0 +1,214 @@
+{
+  "section": {
+    "h1": "Basic"
+  },
+  "items": [
+    {
+      "text": "你",
+      "title": "You",
+      "pinyin": "nǐ",
+      "pronounce": "nee",
+      "comment": "Informal 'you' used in daily conversation.",
+      "type": "BASE",
+      "titlePrefix": "🫵"
+    },
+    {
+      "text": "我",
+      "title": "I / Me",
+      "pinyin": "wǒ",
+      "pronounce": "waw",
+      "comment": "Used to refer to oneself. Example: '我是学生' (I am a student).",
+      "type": "BASE",
+      "titlePrefix": "🙋"
+    },
+    {
+      "text": "好",
+      "title": "Good / Hello",
+      "pinyin": "hǎo",
+      "pronounce": "how",
+      "comment": "Can mean 'good' or be used in greetings like 你好 (Hello).",
+      "type": "BASE",
+      "titlePrefix": "👍😊"
+    },
+    {
+      "text": "对",
+      "title": "Correct / Yes",
+      "pinyin": "duì",
+      "pronounce": "duay",
+      "comment": "Used to confirm something is correct.",
+      "type": "BASE",
+      "titlePrefix": "✅"
+    },
+    {
+      "text": "不",
+      "title": "No / Not",
+      "pinyin": "bù",
+      "pronounce": "boo",
+      "comment": "A negation word used before verbs and adjectives.",
+      "type": "BASE",
+      "titlePrefix": "❌"
+    },
+    {
+      "text": "起",
+      "title": "Rise / Start",
+      "pinyin": "qǐ",
+      "pronounce": "chee",
+      "comment": "Used in phrases like 对不起 (duìbuqǐ) meaning 'sorry.'",
+      "type": "BASE",
+      "titlePrefix": "▶️"
+    },
+    {
+      "text": "没",
+      "title": "Not / Without",
+      "pinyin": "méi",
+      "pronounce": "mei",
+      "comment": "Used in negation of past actions. Example: 我没去 (Wǒ méi qù) - 'I didn't go.'",
+      "type": "BASE",
+      "titlePrefix": "❌"
+    },
+    {
+      "text": "关系",
+      "title": "Relation / Connection",
+      "pinyin": "guānxi",
+      "pronounce": "guan-shee",
+      "comment": "Used in 没关系 (méi guānxi) meaning 'No problem.'",
+      "type": "BASE",
+      "titlePrefix": "🆗"
+    },
+    {
+      "text": "您",
+      "title": "You (formal)",
+      "pinyin": "nín",
+      "pronounce": "neen",
+      "comment": "Polite form of 你 (nǐ).",
+      "type": "BASE",
+      "titlePrefix": "🧓"
+    },
+    {
+      "text": "们",
+      "title": "Plural marker",
+      "pinyin": "men",
+      "pronounce": "men",
+      "comment": "Used to make pronouns plural, e.g., 你们 (nǐmen) - 'you all.'",
+      "type": "BASE",
+      "titlePrefix": "👥"
+    },
+    {
+      "text": "谢",
+      "title": "Thanks",
+      "pinyin": "xiè",
+      "pronounce": "shyeh",
+      "comment": "Used in 谢谢 (xièxie) meaning 'thank you.'",
+      "type": "BASE",
+      "titlePrefix": "🙏"
+    },
+    {
+      "text": "再",
+      "title": "Again",
+      "pinyin": "zài",
+      "pronounce": "dzai",
+      "comment": "Used in 再见 (zàijiàn) meaning 'goodbye.'",
+      "type": "BASE",
+      "titlePrefix": "👋"
+    },
+    {
+      "text": "见",
+      "title": "See / Meet",
+      "pinyin": "jiàn",
+      "pronounce": "jyen",
+      "comment": "Used in 再见 (zàijiàn) meaning 'see you again.'",
+      "type": "BASE",
+      "titlePrefix": "👀"
+    },
+    {
+      "text": "吃",
+      "title": "Eat",
+      "pinyin": "chī",
+      "pronounce": "chrr",
+      "comment": "Used in phrases like 吃饭 (chīfàn) meaning 'eat food.'",
+      "type": "BASE",
+      "titlePrefix": "🍽️ "
+    },
+    {
+      "text": "饭",
+      "title": "Rice / Meal",
+      "pinyin": "fàn",
+      "pronounce": "fan",
+      "comment": "Often refers to meals in general.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "了",
+      "title": "Completed action marker",
+      "pinyin": "le",
+      "pronounce": "luh",
+      "comment": "Indicates a completed action.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "喂",
+      "title": "Hello (on phone)",
+      "pinyin": "wèi",
+      "pronounce": "way",
+      "comment": "Used when answering a phone call.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "换",
+      "title": "Exchange / Change",
+      "pinyin": "huàn",
+      "pronounce": "hwan",
+      "comment": "Used in phrases like 换钱 (huàn qián) meaning 'exchange money.'",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "这",
+      "title": "This",
+      "pinyin": "zhè",
+      "pronounce": "jeh",
+      "comment": "Used to indicate something close. Example: 这是 (zhè shì) - 'This is.'",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "一",
+      "title": "One",
+      "pinyin": "yī",
+      "pronounce": "yee",
+      "comment": "The number 1 in Chinese.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "很",
+      "title": "Very",
+      "pinyin": "hěn",
+      "pronounce": "huhn",
+      "comment": "Used to intensify adjectives, e.g., 很好 (hěn hǎo) - 'very good.'",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "吗",
+      "title": "Question particle",
+      "pinyin": "ma",
+      "pronounce": "ma",
+      "comment": "Used to turn statements into yes/no questions.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "虎",
+      "title": "Tiger",
+      "pinyin": "hǔ",
+      "pronounce": "hoo",
+      "comment": "Refers to the animal 'tiger' and is also used metaphorically to symbolize bravery and power in Chinese culture.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

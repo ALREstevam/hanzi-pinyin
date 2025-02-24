@@ -1,0 +1,45 @@
+{
+  "section": {
+    "h1": "👋 Hello/Geeting"
+  },
+  "items": [
+    {
+      "text": "你好",
+      "title": "Hello",
+      "pinyin": "nee how",
+      "pronounce": "ní-hAaAo",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": "👋"
+    },
+    {
+      "text": "您好",
+      "title": "Hello (formal)",
+      "pinyin": "neen how",
+      "pronounce": "neen how",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": "👋"
+    },
+    {
+      "text": "你好吗?",
+      "title": "Hello how are you?",
+      "pinyin": "ní hǎo ma",
+      "pronounce": "ní-hAaAo-má",
+      "comment": "[吗 ma] used in the end of sentences for yes/no questions",
+      "type": "BASE",
+      "titlePrefix": "👋"
+    },
+    {
+      "text": "喂",
+      "title": "Hello (on the phone) / Hey",
+      "pinyin": "wèi",
+      "pronounce": "wei",
+      "comment": "Used when answering the phone or getting someone's attention.",
+      "type": "BASE",
+      "titlePrefix": "☎️"
+    }
+  ]
+}
+
+

@@ -1,0 +1,61 @@
+{
+  "section": {
+    "h1": "Goodbye"
+  },
+  "items": [
+    {
+      "text": "再见",
+      "title": "Goodbye",
+      "pinyin": "zài jiàn",
+      "pronounce": "dzai jyen",
+      "comment": "A common way to say goodbye in Mandarin, meaning 'see you again.'",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "拜拜",
+      "title": "Bye-bye",
+      "pinyin": "bāi bāi",
+      "pronounce": "bye-bye",
+      "comment": "A casual, borrowed expression from English, often used in informal settings.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "再会",
+      "title": "Goodbye (formal)",
+      "pinyin": "zài huì",
+      "pronounce": "dzai hway",
+      "comment": "A more formal way of saying goodbye, less commonly used in daily speech.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "一会儿见",
+      "title": "See you later",
+      "pinyin": "yí huìr jiàn",
+      "pronounce": "yee hwer jyen",
+      "comment": "Used when you expect to see the person again soon.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "明天见",
+      "title": "See you tomorrow",
+      "pinyin": "míngtiān jiàn",
+      "pronounce": "ming-tyen jyen",
+      "comment": "Used when parting ways with someone until the next day.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "回头见",
+      "title": "See you later (casual)",
+      "pinyin": "huítóu jiàn",
+      "pronounce": "hway-to jyen",
+      "comment": "A casual way to say 'see you later' in Mandarin.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

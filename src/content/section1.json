@@ -1,0 +1,25 @@
+{
+  "section": {
+    "h1": "🍦 In the first place"
+  },
+  "items": [
+    {
+      "text": "早上好，中国，现在我有冰淇淋。",
+      "title": "Good morning, China. Now I have ice cream.",
+      "pinyin": "zǎoshang hǎo, zhōngguó, xiànzài wǒ yǒu bīngqílín.",
+      "pronounce": "dzaow-shung how, jong-gwor, syan-dzai waw yo bing-chee-lin.",
+      "comment": "A greeting followed by a statement about having ice cream.",
+      "titlePrefix": "🍦",
+      "type": "BASE"
+    },
+    {
+      "text": "我喜欢冰淇淋。",
+      "title": "I like ice cream.",
+      "pinyin": "wǒ xǐhuan bīngqílín.",
+      "pronounce": "waw shee-hwan bing-chee-lin.",
+      "comment": "Used to express your liking for ice cream.",
+      "titlePrefix": "🍦",
+      "type": "BASE"
+    }
+  ]
+}

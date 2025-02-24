@@ -1,0 +1,26 @@
+{
+  "section": {
+    "h1": "Foods"
+  },
+  "items": [
+    {
+      "text": "吃饭",
+      "title": "Eat food / Have a meal",
+      "pinyin": "chī fàn",
+      "pronounce": "chrr fan",
+      "comment": "Common phrase for eating a meal, can also imply 'having rice' in a literal sense.",
+      "type": "BASE",
+"titlePrefix": ""
+    },
+  
+    {
+      "text": "我饿了",
+      "title": "I'm hungry",
+      "pinyin": "wǒ è le",
+      "pronounce": "wuh uh luh",
+      "comment": "Common way to express hunger in Chinese. The character '了' indicates a change of state",
+      "type": "BASE",
+"titlePrefix": ""
+    }
+  ]
+}

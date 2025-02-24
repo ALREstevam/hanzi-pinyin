@@ -1,0 +1,99 @@
+{
+  "section": {
+    "h1": "Countries & Nationalities"
+  },
+  "items": [
+    {
+      "text": "你是日本人吗？",
+      "title": "Are you Japanese?",
+      "pinyin": "nǐ shì rìběn rén ma?",
+      "pronounce": "nee shrr rrr-ben ren ma?",
+      "comment": "A common way to ask someone if they are Japanese.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "我不是日本人，我是巴西人。",
+      "title": "I'm not Japanese, I'm Brazilian.",
+      "pinyin": "wǒ bù shì rìběn rén, wǒ shì bāxī rén.",
+      "pronounce": "waw boo shrr rrr-ben ren, waw shrr baa-shee ren.",
+      "comment": "Used to clarify your nationality when someone asks if you are Japanese.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "巴西",
+      "title": "Brazil",
+      "pinyin": "Bāxī",
+      "pronounce": "bah-shee",
+      "comment": "Brazil, the largest country in South America.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "中国",
+      "title": "China",
+      "pinyin": "Zhōngguó",
+      "pronounce": "jong-gwo",
+      "comment": "China, the most populous country in the world.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "美国",
+      "title": "United States",
+      "pinyin": "Měiguó",
+      "pronounce": "may-gwo",
+      "comment": "The United States of America (USA).",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "英国",
+      "title": "United Kingdom",
+      "pinyin": "Yīngguó",
+      "pronounce": "ying-gwo",
+      "comment": "The United Kingdom (UK), including England, Scotland, Wales, and Northern Ireland.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "法国",
+      "title": "France",
+      "pinyin": "Fǎguó",
+      "pronounce": "fah-gwo",
+      "comment": "France, a country in Western Europe known for its culture and cuisine.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "意大利",
+      "title": "Italy",
+      "pinyin": "Yìdàlì",
+      "pronounce": "yee-dah-lee",
+      "comment": "Italy, a European country known for its history, art, and food.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我是中国人",
+      "title": "I'm Chinese",
+      "pinyin": "wǒ shì zhōngguó rén",
+      "pronounce": "waw shrr jong-gwor ren",
+      "comment": "A common way to say 'I'm Chinese.' Used in both formal and casual situations.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "巴西人",
+      "title": "Brazilian",
+      "pinyin": "bāxī rén",
+      "pronounce": "baa-shee ren",
+      "comment": "Refers to a person from Brazil.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

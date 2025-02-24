@@ -1,0 +1,34 @@
+{
+  "section": {
+    "h1": "Excusing"
+  },
+  "items": [
+    {
+      "text": "对不起",
+      "title": "Sorry",
+      "pinyin": "duìbuqǐ",
+      "pronounce": "duêi bu-tchi",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "不好意思",
+      "title": "Excuse me/I'm embarassed",
+      "pinyin": "bù hǎo yìsi",
+      "pronounce": "boo how yee-suh",
+      "comment": "Used for minor mistakes",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "抱歉",
+      "title": "I apologize (formal)",
+      "pinyin": "bàoqiàn",
+      "pronounce": "bow-chyen",
+      "comment": "Used for minor mistakes",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

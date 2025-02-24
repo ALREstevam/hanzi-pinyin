@@ -1,0 +1,79 @@
+{
+  "section": {
+    "h1": "Directions and positions"
+  },
+  "items": [
+    {
+      "text": "上",
+      "title": "Up",
+      "pinyin": "shàng",
+      "pronounce": "shahng",
+      "comment": "Indicates upward direction or position.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "下",
+      "title": "Down",
+      "pinyin": "xià",
+      "pronounce": "shyah",
+      "comment": "Indicates downward direction or position.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "左",
+      "title": "Left",
+      "pinyin": "zuǒ",
+      "pronounce": "dzwor",
+      "comment": "Indicates the left direction.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "右",
+      "title": "Right",
+      "pinyin": "yòu",
+      "pronounce": "yo",
+      "comment": "Indicates the right direction.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "上面",
+      "title": "On",
+      "pinyin": "shàngmiàn",
+      "pronounce": "shahng-myen",
+      "comment": "Indicates something is on top of another.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "里面",
+      "title": "In",
+      "pinyin": "lǐmiàn",
+      "pronounce": "lee-myen",
+      "comment": "Indicates something is inside.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "下面",
+      "title": "Under",
+      "pinyin": "xiàmiàn",
+      "pronounce": "shyah-myen",
+      "comment": "Indicates something is below or under.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "中心",
+      "title": "Center",
+      "pinyin": "zhōngxīn",
+      "pronounce": "jong-sheen",
+      "comment": "Indicates the center of something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

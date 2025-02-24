@@ -1,0 +1,81 @@
+{
+  "section": {
+    "h1": "❓Interrogative Pronouns – 疑问代词 (yíwèn dàicí)"
+  },
+  "items": [
+    {
+      "text": "谁",
+      "title": "Who / Whom",
+      "pinyin": "shéi",
+      "pronounce": "shay",
+      "comment": "Used to ask about a person.",
+      "type": "BASE",
+      "titlePrefix": "🤷‍♂️"
+    },
+    {
+      "text": "什么",
+      "title": "What",
+      "pinyin": "shénme",
+      "pronounce": "shun-muh",
+      "comment": "Used to ask about things.",
+      "type": "BASE",
+      "titlePrefix": "❓"
+    },
+    {
+      "text": "哪",
+      "title": "Which",
+      "pinyin": "nǎ",
+      "pronounce": "nah",
+      "comment": "Used to ask about a selection.",
+      "type": "BASE",
+      "titlePrefix": "🧐"
+    },
+    {
+      "text": "哪里",
+      "title": "Where",
+      "pinyin": "nǎlǐ",
+      "pronounce": "nah-lee",
+      "comment": "Used to ask about location.",
+      "type": "BASE",
+      "titlePrefix": "🗺️"
+    },
+    {
+      "text": "什么时候",
+      "title": "When",
+      "pinyin": "shénme shíhou",
+      "pronounce": "shun-muh shr-ho",
+      "comment": "Used to ask about time.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "为什么",
+      "title": "Why",
+      "pinyin": "wèi shénme",
+      "pronounce": "way shun-muh",
+      "comment": "Used to ask for reasons.",
+      "type": "BASE",
+      "titlePrefix": "⏰"
+    },
+    {
+      "text": "怎么",
+      "title": "How",
+      "pinyin": "zěnme",
+      "pronounce": "dzun-muh",
+      "comment": "Used to ask about methods or ways.",
+      "type": "BASE",
+      "titlePrefix": "🤔⚙️"
+    },
+    {
+      "text": "多少",
+      "title": "How many / How much",
+      "pinyin": "duōshǎo",
+      "pronounce": "dwor-shaow",
+      "comment": "Used to ask about quantities.",
+      "type": "BASE",
+      "titlePrefix": "🔢"
+    }
+  ]
+}
+
+

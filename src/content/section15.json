@@ -1,0 +1,126 @@
+{
+  "section": {
+    "h1": "Time and Tense Expressions – 时间与时态 (shíjiān yǔ shítài)"
+  },
+  "items": [
+    {
+      "text": "昨天",
+      "title": "Yesterday",
+      "pinyin": "zuótiān",
+      "pronounce": "dzwor-tyen",
+      "comment": "Refers to the day before today.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "今天",
+      "title": "Today",
+      "pinyin": "jīntiān",
+      "pronounce": "jeen-tyen",
+      "comment": "Refers to the current day.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "明天",
+      "title": "Tomorrow",
+      "pinyin": "míngtiān",
+      "pronounce": "ming-tyen",
+      "comment": "Refers to the day after today.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "现在",
+      "title": "Now",
+      "pinyin": "xiànzài",
+      "pronounce": "shyen-dzai",
+      "comment": "Indicates the present moment.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "刚刚",
+      "title": "Just now",
+      "pinyin": "gānggāng",
+      "pronounce": "gahng-gahng",
+      "comment": "Indicates something that happened very recently.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "以前",
+      "title": "Before",
+      "pinyin": "yǐqián",
+      "pronounce": "yee-chyen",
+      "comment": "Indicates something happening in the past.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "以后",
+      "title": "After",
+      "pinyin": "yǐhòu",
+      "pronounce": "yee-hoh",
+      "comment": "Indicates something happening in the future.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "正在",
+      "title": "Right now (Present Continuous)",
+      "pinyin": "zhèngzài",
+      "pronounce": "juhng-dzai",
+      "comment": "Used to indicate an ongoing action.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "了",
+      "title": "Completed Action (Past)",
+      "pinyin": "le",
+      "pronounce": "luh",
+      "comment": "Indicates that an action has already happened.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "过",
+      "title": "Past Experience",
+      "pinyin": "guò",
+      "pronounce": "gwoh",
+      "comment": "Indicates having done something before.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "会",
+      "title": "Will (Future)",
+      "pinyin": "huì",
+      "pronounce": "hway",
+      "comment": "Used to express future actions.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "马上",
+      "title": "Immediately",
+      "pinyin": "mǎshàng",
+      "pronounce": "mah-shahng",
+      "comment": "Indicates something happening very soon.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

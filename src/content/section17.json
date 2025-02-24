@@ -1,0 +1,34 @@
+{
+  "section": {
+    "h1": "Extra"
+  },
+  "items": [
+    {
+      "text": "口红",
+      "title": "Lipstick",
+      "pinyin": "kǒu hóng",
+      "pronounce": "kow hong",
+      "comment": "Literally means 'mouth red' in Chinese.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "小心",
+      "title": "Be careful",
+      "pinyin": "xiǎo xīn",
+      "pronounce": "shyao sheen",
+      "comment": "Often used to warn someone to be cautious.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "是不是",
+      "title": "Is it or not? / Right or not?",
+      "pinyin": "shì bú shì",
+      "pronounce": "shrr bu shrr",
+      "comment": "A common way to form yes/no questions in Chinese.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

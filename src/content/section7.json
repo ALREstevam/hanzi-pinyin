@@ -1,0 +1,81 @@
+{
+  "section": {
+    "h1": "Hello"
+  },
+  "items": [
+    {
+      "text": "我是",
+      "title": "I am",
+      "pinyin": "wǒ shì",
+      "pronounce": "wǒ shrr",
+      "comment": "Used to introduce oneself or state identity.",
+      "type": "BASE",
+      "titlePrefix": "🗣️"
+    },
+
+    {
+      "text": "很好",
+      "title": "Very good",
+      "pinyin": "hěn hǎo",
+      "pronounce": "hên hao",
+      "comment": "Used to express that something is very good or well done.",
+      "type": "BASE",
+      "titlePrefix": "👍"
+    },
+    {
+      "text": "不好",
+      "title": "Not good",
+      "pinyin": "bù hǎo",
+      "pronounce": "boo hao",
+      "comment": "Used to indicate something is bad or not good.",
+      "type": "BASE",
+      "titlePrefix": "👎"
+    },
+    {
+      "text": "可以",
+      "title": "Okay / Can",
+      "pinyin": "kěyǐ",
+      "pronounce": "kè-yee",
+      "comment": "Used to express permission or that something is acceptable.",
+      "type": "BASE",
+      "titlePrefix": "😑"
+    },
+    {
+      "text": "马马虎虎",
+      "title": "So-so",
+      "pinyin": "mǎmǎ hūhū",
+      "pronounce": "ma-ma hoo-hoo",
+      "comment": "Literally means 'horse horse tiger tiger,' used to describe something as just average or so-so.",
+      "type": "BASE",
+      "titlePrefix": "😑"
+    },
+
+    {
+      "text": "你呢",
+      "title": "How about you?",
+      "pinyin": "nǐ ne",
+      "pronounce": "nee nuh",
+      "comment": "Used to return a question to someone, often in casual conversation.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "谢谢你",
+      "title": "Thank you",
+      "pinyin": "xièxie nǐ",
+      "pronounce": "xiexie-nIiI",
+      "comment": "Thanks directed to a person",
+      "type": "BASE",
+      "titlePrefix": "❓👉"
+    },
+    {
+      "text": "非常感谢",
+      "title": "Thank you very much",
+      "pinyin": "fēicháng gǎnxiè",
+      "pronounce": "fay-chang gan-shyeh",
+      "comment": "A formal and polite way to express deep gratitude.",
+      "type": "BASE",
+      "titlePrefix": "🙏"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "section": {
+    "h1": "Affirmations and Negations – 肯定与否定 (kěndìng yǔ fǒudìng)"
+  },
+  "items": [
+    {
+      "text": "是",
+      "title": "Yes",
+      "pinyin": "shì",
+      "pronounce": "shrr",
+      "comment": "A direct way to say 'yes' in response to statements.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "不",
+      "title": "No (not now)",
+      "pinyin": "bù",
+      "pronounce": "boo",
+      "comment": "A general negation; can mean 'no' or 'not'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "绝不",
+      "title": "No (never)",
+      "pinyin": "juébù",
+      "pronounce": "jweh-boo",
+      "comment": "Used for absolute refusal or strong negation.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "是的，请",
+      "title": "Yes, please",
+      "pinyin": "shì de, qǐng",
+      "pronounce": "shrr duh, ching",
+      "comment": "A polite way to affirm and request something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "不，谢谢",
+      "title": "No, thank you",
+      "pinyin": "bù, xièxiè",
+      "pronounce": "boo, shyeh-shyeh",
+      "comment": "A polite way to refuse something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

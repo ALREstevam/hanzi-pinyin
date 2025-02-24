@@ -1,0 +1,72 @@
+{
+  "section": {
+    "h1": "Who is this?"
+  },
+  "items": [
+    {
+      "text": "(他/她)是谁？",
+      "textToDisplay": "(他/她)是谁？",
+      "textToSay": "他是谁？",
+      "title": "Who is he? / Who is she?",
+      "pinyin": "tā shì shéi?",
+      "pronounce": "tah shrr shay?",
+      "comment": "Used to ask about someone's identity. '他' refers to a male, while '她' refers to a female.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "她是我的女朋友。",
+      "title": "She is my girlfriend.",
+      "pinyin": "tā shì wǒ de nǚ péngyǒu.",
+      "pronounce": "tah shrr waw duh nyoo pung-yoe.",
+      "comment": "Used to introduce your girlfriend.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "他是我的男朋友。",
+      "title": "He is my boyfriend.",
+      "pinyin": "tā shì wǒ de nán péngyǒu.",
+      "pronounce": "tah shrr waw duh nan pung-yoe.",
+      "comment": "Used to introduce your boyfriend.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "她是我的朋友。",
+      "title": "She is my friend.",
+      "pinyin": "tā shì wǒ de péngyǒu.",
+      "pronounce": "tah shrr waw duh pung-yoe.",
+      "comment": "Used to introduce a female friend. '他是我的朋友' can be used for a male friend.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "她是我的中文老师。",
+      "title": "She is my Chinese teacher.",
+      "pinyin": "tā shì wǒ de zhōngwén lǎoshī.",
+      "pronounce": "tah shrr waw duh jong-wen laow-shrr.",
+      "comment": "Used to introduce a female Chinese language teacher. Use '他' for a male teacher.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "她是我的妈妈。",
+      "title": "She is my mom.",
+      "pinyin": "tā shì wǒ de māma.",
+      "pronounce": "tah shrr waw duh ma-ma.",
+      "comment": "Used to introduce your mother.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "他是我的爸爸。",
+      "title": "He is my dad.",
+      "pinyin": "tā shì wǒ de bàba.",
+      "pronounce": "tah shrr waw duh ba-ba.",
+      "comment": "Used to introduce your father.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "section": {
+    "h1": "Verb \"Tenses\""
+  },
+  "items": [
+    {
+      "text": "了",
+      "title": "Le (Past action/completion)",
+      "pinyin": "le",
+      "pronounce": "luh",
+      "comment": "Indicates a completed action or a change of state. Example: 我去了中国 (Wǒ qùle Zhōngguó) - 'I went to China.'",
+      "type": "BASE",
+"titlePrefix": ""
+    },
+    {
+      "text": "过",
+      "title": "Guò (Past experience)",
+      "pinyin": "guò",
+      "pronounce": "gwo",
+      "comment": "Indicates that something has been experienced before. Example: 我去过中国 (Wǒ qùguò Zhōngguó) - 'I have been to China.'",
+      "type": "BASE",
+"titlePrefix": ""
+    },
+    {
+      "text": "正在",
+      "title": "Zhèngzài (Ongoing action)",
+      "pinyin": "zhèngzài",
+      "pronounce": "jung-dzai",
+      "comment": "Indicates that an action is in progress. Example: 我正在吃饭 (Wǒ zhèngzài chīfàn) - 'I am eating.'",
+      "type": "BASE",
+"titlePrefix": ""
+    }
+  ]
+}

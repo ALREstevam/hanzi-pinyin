@@ -1,0 +1,44 @@
+{
+  "section": {
+    "h1": "Being/Posessing"
+  },
+  "items": [
+    {
+      "text": "你是老师吗？",
+      "title": "Are you a teacher?",
+      "pinyin": "nǐ shì lǎoshī ma?",
+      "pronounce": "nee shrr lao-shrr ma",
+      "comment": "A yes/no question asking if someone is a teacher. The particle '吗' (ma) is used to form yes/no questions.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "是的，我是。",
+      "title": "Yes, I am.",
+      "pinyin": "shì de, wǒ shì.",
+      "pronounce": "shrr duh, wǒ shrr",
+      "comment": "A formal way to confirm a statement.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "不是，我不是。",
+      "title": "No, I'm not.",
+      "pinyin": "bù shì, wǒ bù shì.",
+      "pronounce": "boo shrr, wǒ boo shrr",
+      "comment": "A straightforward way to deny a statement.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+
+    {
+      "text": "我不是老师，我是学生。",
+      "title": "I'm not a teacher, I'm a student.",
+      "pinyin": "wǒ bù shì lǎoshī, wǒ shì xuéshēng.",
+      "pronounce": "waw boo shrr laow-shrr, waw shrr shweh-shung.",
+      "comment": "Used to clarify that you are a student, not a teacher.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

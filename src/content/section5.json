@@ -1,0 +1,88 @@
+{
+  "section": {
+    "h1": "Possessive Pronouns – 所有代词 (suǒyǒu dàicí)"
+  },
+  "items": [
+    {
+      "text": "我的",
+      "title": "Mine / My",
+      "pinyin": "wǒ de",
+      "pronounce": "wuh duh",
+      "comment": "Used to show possession.",
+      "type": "BASE",
+      "titlePrefix": "🙋💎"
+    },
+    {
+      "text": "你的",
+      "title": "Yours",
+      "pinyin": "nǐ de",
+      "pronounce": "nee duh",
+      "comment": "Used to indicate something belongs to 'you'.",
+      "type": "BASE",
+      "titlePrefix": "👉💎"
+    },
+    {
+      "text": "他的",
+      "title": "His",
+      "pinyin": "tā de",
+      "pronounce": "tah duh",
+      "comment": "Used for male possession.",
+      "type": "BASE",
+      "titlePrefix": "👉👨💎"
+    },
+    {
+      "text": "她的",
+      "title": "Hers",
+      "pinyin": "tā de",
+      "pronounce": "tah duh",
+      "comment": "Used for female possession.",
+      "type": "BASE",
+      "titlePrefix": "👉👩💎"
+    },
+    {
+      "text": "它的",
+      "title": "Its",
+      "pinyin": "tā de",
+      "pronounce": "tah duh",
+      "comment": "Used for objects and animals.",
+      "type": "BASE",
+      "titlePrefix": "👉🐶"
+    },
+    {
+      "text": "我们的",
+      "title": "Ours",
+      "pinyin": "wǒmen de",
+      "pronounce": "wuh-men duh",
+      "comment": "Used for plural possession.",
+      "type": "BASE",
+      "titlePrefix": "☭"
+    },
+    {
+      "text": "你们的",
+      "title": "Yours (plural)",
+      "pinyin": "nǐmen de",
+      "pronounce": "nee-men duh",
+      "comment": "Plural possessive form of '你'.",
+      "type": "BASE",
+      "titlePrefix": "👉👨👩"
+    },
+    {
+      "text": "他们的",
+      "title": "Theirs (male/mixed)",
+      "pinyin": "tāmen de",
+      "pronounce": "tah-men duh",
+      "comment": "Plural possessive form of '他'.",
+      "type": "BASE",
+      "titlePrefix": "👉🧑‍🤝‍🧑"
+    },
+    {
+      "text": "她们的",
+      "title": "Theirs (female)",
+      "pinyin": "tāmen de",
+      "pronounce": "tah-men duh",
+      "comment": "Plural possessive form of '她'.",
+      "type": "BASE",
+      "titlePrefix": "👉👩🧑‍🤝‍🧑"
+    }
+  ]
+}

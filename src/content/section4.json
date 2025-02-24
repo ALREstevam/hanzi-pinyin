@@ -1,0 +1,106 @@
+{
+  "section": {
+    "h1": "🤷 Personal Pronouns – 人称代词 (rénchēng dàicí)"
+  },
+  "items": [
+    {
+      "text": "我",
+      "title": "I / Me",
+      "pinyin": "wǒ",
+      "pronounce": "wuh",
+      "comment": "Used for first-person singular.",
+      "type": "BASE",
+      "titlePrefix": "🙋"
+    },
+    {
+      "text": "你",
+      "title": "You",
+      "pinyin": "nǐ",
+      "pronounce": "nee",
+      "comment": "Informal second-person singular.",
+      "type": "BASE",
+      "titlePrefix": "🫵"
+    },
+    {
+      "text": "您",
+      "title": "You (formal)",
+      "pinyin": "nín",
+      "pronounce": "neen",
+      "comment": "Polite/formal version of '你'.",
+      "type": "BASE",
+      "titlePrefix": "👉🧓"
+    },
+    {
+      "text": "他",
+      "title": "He / Him",
+      "pinyin": "tā",
+      "pronounce": "tah",
+      "comment": "Used for males.",
+      "type": "BASE",
+      "titlePrefix": "👉👨"
+    },
+    {
+      "text": "她",
+      "title": "She / Her",
+      "pinyin": "tā",
+      "pronounce": "tah",
+      "comment": "Used for females.",
+      "type": "BASE",
+      "titlePrefix": "👉👩"
+    },
+    {
+      "text": "它",
+      "title": "It",
+      "pinyin": "tā",
+      "pronounce": "tah",
+      "comment": "Used for objects and animals.",
+      "type": "BASE",
+      "titlePrefix": "📦"
+    },
+    {
+      "text": "我们",
+      "title": "We / Us",
+      "pinyin": "wǒmen",
+      "pronounce": "wuh-men",
+      "comment": "First-person plural.",
+      "type": "BASE",
+      "titlePrefix": "☭"
+    },
+    {
+      "text": "你们",
+      "title": "You (plural)",
+      "pinyin": "nǐmen",
+      "pronounce": "nee-men",
+      "comment": "Plural form of '你'.",
+      "type": "BASE",
+      "titlePrefix": "👉👨👩"
+    },
+    {
+      "text": "他们",
+      "title": "They / Them (male/mixed)",
+      "pinyin": "tāmen",
+      "pronounce": "tah-men",
+      "comment": "Plural for '他'.",
+      "type": "BASE",
+      "titlePrefix": "👫"
+    },
+    {
+      "text": "她们",
+      "title": "They / Them (female)",
+      "pinyin": "tāmen",
+      "pronounce": "tah-men",
+      "comment": "Plural for '她'.",
+      "type": "BASE",
+      "titlePrefix": "👫👩"
+    },
+    {
+      "text": "它们",
+      "title": "They / Them (objects)",
+      "pinyin": "tāmen",
+      "pronounce": "tah-men",
+      "comment": "Plural for '它'.",
+      "type": "BASE",
+      "titlePrefix": "📦📦📦"
+    }
+  ]
+}

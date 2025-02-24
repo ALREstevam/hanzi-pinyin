@@ -1,0 +1,97 @@
+{
+  "section": {
+    "h1": "🤔 Question Particles"
+  },
+  "items": [
+    {
+      "text": "吗",
+      "title": "ma (question particle)",
+      "pinyin": "ma",
+      "pronounce": "ma",
+      "comment": "Used at the end of a sentence to turn it into a yes/no question. Example: '你是学生吗？' (Are you a student?)",
+      "type": "BASE",
+      "titlePrefix": "❓"
+    },
+    {
+      "text": "呢",
+      "title": "ne (question particle)",
+      "pinyin": "ne",
+      "pronounce": "nuh",
+      "comment": "Used to ask 'what about' someone or something. Example: '你呢？' (What about you?)",
+      "type": "BASE",
+      "titlePrefix": "🙆"
+    },
+    {
+      "text": "吧",
+      "title": "ba (suggestion particle)",
+      "pinyin": "ba",
+      "pronounce": "ba",
+      "comment": "Used to make suggestions or soften statements. Example: '我们走吧。' (Let's go.)",
+      "type": "BASE",
+      "titlePrefix": "💡"
+    },
+    {
+      "text": "谁",
+      "title": "shéi / shuí (who)",
+      "pinyin": "shéi / shuí",
+      "pronounce": "shay / shway",
+      "comment": "Used to ask 'who.' Example: '他是谁？' (Who is he?)",
+      "type": "BASE",
+      "titlePrefix": "🤷"
+    },
+    {
+      "text": "什么",
+      "title": "shénme (what)",
+      "pinyin": "shénme",
+      "pronounce": "shun-muh",
+      "comment": "Used to ask 'what.' Example: '这是什么？' (What is this?)",
+      "type": "BASE",
+      "titlePrefix": "🤔"
+    },
+    {
+      "text": "哪",
+      "title": "nǎ (which/where)",
+      "pinyin": "nǎ",
+      "pronounce": "nah",
+      "comment": "Used to ask 'which' or 'where.' Example: '你是哪国人？' (Which country are you from?)",
+      "type": "BASE",
+      "titlePrefix": "⚖️ 🗺️"
+    },
+    {
+      "text": "怎么",
+      "title": "zěnme (how)",
+      "pinyin": "zěnme",
+      "pronounce": "dzun-muh",
+      "comment": "Used to ask 'how' or 'why.' Example: '你怎么了？' (What's wrong with you?)",
+      "type": "BASE",
+      "titlePrefix": "🤷"
+    },
+    {
+      "text": "多少",
+      "title": "duōshǎo (how many/how much)",
+      "pinyin": "duōshǎo",
+      "pronounce": "dwor-shaow",
+      "comment": "Used to ask about quantity. Example: '这个多少钱？' (How much is this?)",
+      "type": "BASE",
+      "titlePrefix": "🧮"
+    },
+    {
+      "text": "几",
+      "title": "jǐ (how many)",
+      "pinyin": "jǐ",
+      "pronounce": "jee",
+      "comment": "Used to ask about small numbers. Example: '你有几个兄弟姐妹？' (How many siblings do you have?)",
+      "type": "BASE",
+      "titlePrefix": "🤏"
+    },
+    {
+      "text": "为什么",
+      "title": "wèishénme (why)",
+      "pinyin": "wèishénme",
+      "pronounce": "way-shun-muh",
+      "comment": "Used to ask 'why.' Example: '你为什么学习中文？' (Why do you study Chinese?)",
+      "type": "BASE",
+      "titlePrefix": "🤷‍♂️"
+    }
+  ]
+}
