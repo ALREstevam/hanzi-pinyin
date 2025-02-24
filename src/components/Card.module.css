@@ -1,0 +1,108 @@
+.card {
+  background: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  margin: 1%;
+  border-radius: 2em;
+  text-align: center;
+  position: relative;
+  flex-basis: 30%;
+  flex-grow: 1;
+}
+
+@media print {
+  .card {
+    border: solid 1px #ccc
+  }
+}
+
+.cardItemContainter{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
+
+.card h3 {
+  font-size: 1.8em;
+  color: black;
+  font-weight: bold;
+}
+
+.metaTextBase {
+  min-width: 10%;
+  line-height: 1.3em;
+  font-size: 1.1em;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 5px;
+}
+
+/*Pronounce*/
+.pronounceFull {
+  background-color: #ffe0e0;
+  color: crimson;
+  font-style: italic;
+  cursor: pointer;
+}
+
+.pronounceFull::before {
+  color: crimson;
+  content: "/ ";
+  font-weight: bold;
+}
+.pronounceFull::after {
+  color: crimson;
+  content: " /";
+  font-weight: bold;
+} 
+
+/*Pinyin*/
+.pinyinFull {
+  color: gray;
+  background-color: #efefef;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.pinyinFull::before {
+  content: "[ǎ]: ";
+  font-weight: bolder;
+}
+
+/*Hanzi*/
+.hanziFull {
+  color: green;
+  background-color: #ccffcc;
+  cursor: pointer;
+}
+
+.hanziFull {
+  content: " [H]: ";
+  font-weight: bolder;
+}
+
+
+.containerCardMeta {
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center !important;
+  align-items: center;
+}
+
+
+.comment {
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  margin-top: 1%;
+  width: 80%;
+  justify-content: center;
+  border-top: solid 1px #ccc;
+}

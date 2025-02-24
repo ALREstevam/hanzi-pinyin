@@ -1,0 +1,76 @@
+.cardItem {
+  display: flex;
+  justify-content: flex-start;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 1em;
+  text-align: center;
+  position: relative;
+  padding-top: 1%;
+}
+
+.nonHanziCardItem{
+    display: flex;
+    align-items: flex-start;
+    justify-items: center;
+    flex-direction: row;
+    padding: 0;
+}
+
+.nonHanziCardItem span {
+    padding: 3%;
+    color: #222;
+    text-align: center;
+    border-radius: 1em;
+    font-size: 3em;
+    line-height: 2em;
+}
+
+/*
+.cardItem div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+*/
+
+.charDetailsContainer {
+  width: 90%;
+  margin: 5%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 1.2em !important;
+  line-height: 1.2em;
+}
+
+.charDetailsContainer span {
+  font-size: 1.4em;
+  line-height: 1.5em;
+  font-weight: bold;
+  border: 1px solid #ccc;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 0.1em;
+  min-width: 30%;
+  border-radius: 0.5em;
+  cursor: pointer;
+  animation: all 1s ease-in-out;
+}
+
+.charDetailsContainer span:hover {
+  background-color: #ddd;
+  color: #222;
+  font-size: 1.6em;
+}
+
+/*
+.cardItem div:last-child {
+  border-bottom: none;
+  border-right: none;
+}
+*/

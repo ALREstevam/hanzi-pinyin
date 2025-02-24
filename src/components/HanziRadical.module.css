@@ -1,0 +1,15 @@
+.radical{
+    padding: 1%;
+    margin: 1%;
+    border-radius: 0.5em;
+    background-color: #eee;
+    color: #333;
+}
+
+.radicalContainer {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
