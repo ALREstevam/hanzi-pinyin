@@ -11,12 +11,13 @@ export interface CardData {
   comment?: string;
   textToDisplay?: string;
   textToSay?: string;
-  person?: string
+  person?: string;
 }
 
 export interface DialogData {
   type: "DIALOG";
-  items: CardData[]
+  title: string;
+  items: CardData[];
 }
 
 export interface Content {
@@ -24,5 +25,5 @@ export interface Content {
     h1: string;
     h2?: string;
   };
-  items: (CardData|DialogData)[];
+  items: (CardData | DialogData)[];
 }

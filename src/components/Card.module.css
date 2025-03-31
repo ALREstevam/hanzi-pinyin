@@ -7,25 +7,26 @@
   align-items: center;
   padding-top: .5em;
   padding-bottom: .5em;
-  margin: 1%;
+  margin: 0.2em;
   border-radius: 2em;
   text-align: center;
   position: relative;
-  flex-basis: 30%;
+  flex-basis: 25%;
   flex-grow: 1;
 }
+
 
 @media print {
   .card {
     border: solid 1px #ccc;
-    break-inside: avoid; /* Modern browsers */
-    page-break-inside: avoid; /* Older browsers */
+    /*break-inside: avoid;
+    page-break-inside: avoid;*/
   }
 
-  h1 h2 {
-    break-inside: avoid; /* Modern browsers */
-    page-break-inside: avoid; /* Older browsers */
-  }
+ /* h1 h2 {
+    break-inside: avoid; 
+    page-break-inside: avoid;
+  }*/ 
 }
 
 

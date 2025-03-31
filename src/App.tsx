@@ -54,8 +54,8 @@ const buildCard = (data: CardData, section:string, index:number) => (
   />
 );
 
-const buildDialog = (items: CardData[], section:string, index:number) => (
-  <Dialog key={items.map(it=>it.pinyin).join('')}>
+const buildDialog = (items: CardData[], title:string, section:string, index:number) => (
+  <Dialog key={items.map(it=>it.pinyin).join('')} title={title}>
     {items.map((item, itemidx) => buildCard(item, section, index*itemidx))}
   </Dialog>
 )
@@ -65,7 +65,7 @@ const Section = ({ content }: { content: Content }) => {
     if (item.type === "BASE") {
       return buildCard(item as unknown as CardData, content.section.h1, index);
     } else if (item.type === "DIALOG") {
-      return buildDialog((item as unknown as DialogData).items, content.section.h1, index);
+      return buildDialog((item as unknown as DialogData).items, (item as unknown as DialogData).title, content.section.h1, index);
     }
     return <div></div>
   });

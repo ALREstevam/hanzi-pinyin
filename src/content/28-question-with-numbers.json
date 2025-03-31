@@ -14,6 +14,7 @@
     },
     {
       "type": "DIALOG",
+      "title": "How old are you? (children)",
       "items": [
         {
           "text": "你几岁？",
@@ -49,6 +50,7 @@
     },
     {
       "type": "DIALOG",
+      "title": "How many siblings do you have?",
       "items": [
         {
           "text": "你有几个兄弟姐妹？",
@@ -92,6 +94,7 @@
     },
     {
       "type": "DIALOG",
+      "title": "How many people are in your family?",
       "items": [
         {
           "text": "你家有几口人?",
@@ -117,6 +120,7 @@
     },
     {
       "type": "DIALOG",
+      "title": "How old is Teacher Li?",
       "items": [
         {
           "text": "李老师多大了?",

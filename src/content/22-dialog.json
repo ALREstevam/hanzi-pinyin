@@ -5,6 +5,7 @@
   "items": [
     {
       "type": "DIALOG",
+      "title": "Who's this?",
       "items": [
         {
           "text": "他是谁？",

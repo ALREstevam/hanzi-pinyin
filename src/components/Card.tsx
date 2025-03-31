@@ -56,10 +56,12 @@ const Card: FunctionComponent<CardProps> = (data) => {
         {data.person && <Person name={data.person}/>}
         {items}
       </div>
-      <span className={styles.comment}>{comment}</span>
+     
     </div>
   );
 };
+
+// <span className={styles.comment}>{comment}</span>
 
 export default Card;
 

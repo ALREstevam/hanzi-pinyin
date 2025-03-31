@@ -34,7 +34,7 @@ export const CardItem: FunctionComponent<CardItemProps> = ({ char }) => {
       <MainMeaning char={char} />
       <div className={styles.charDetailsContainer}>
         <span onClick={()=>TextToSpeech.say(char, 'zh-CN','NORMAL')}>{char}</span>
-        <span onClick={()=>TextToSpeech.say(char, 'zh-CN','SLOW')}>{charPinyin}</span>
+        <span onClick={()=>TextToSpeech.say(char, 'zh-CN','SLOW')} style={{backgroundColor: '#79e8f2'}}>{charPinyin}</span>
       </div>
       <HanziDefinition char={char} />
       <HanziRadical char={char} />

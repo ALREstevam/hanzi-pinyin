@@ -5,6 +5,7 @@
   "items": [
     {
       "type": "DIALOG",
+      "title": "  Are you a teacher?",
       "items": [
         {
           "text": "你是老师吗？",
