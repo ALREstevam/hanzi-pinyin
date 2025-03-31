@@ -7,15 +7,12 @@ interface MainMeaningProps {
 }
 
 const getMainMeaning = (meanings: string[][]) => {
-  console.log({meanings})
   const meaningsProcessed = meanings
     .map((meaningArr) =>
       meaningArr
         .map((el) => el.replace(/\s*\(.*?\)\s*/g, " ").trim())
     )
     .flat().filter((el) => el.length < 10).filter(el => !!el);
-
-  console.log({ meaningsProcessed });
 
   return meaningsProcessed?.[0];
 };

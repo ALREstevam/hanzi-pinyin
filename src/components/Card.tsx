@@ -4,6 +4,7 @@ import { CardItem } from "./CardItem";
 import styles from "./Card.module.css";
 import clsx from "clsx";
 import { TextToSpeech } from "../utils/tts";
+import Person from "./Person";
 
 type CardProps = CardData;
 
@@ -14,7 +15,7 @@ const getFlex = (items: number) => {
   if (items === 4) return { flexBasis: "25%", flexGrow: ".30" };
   if (items === 5) return { flexBasis: "30%", flexGrow: ".35" };
   if (items === 6) return { flexBasis: "35%", flexGrow: ".40" };
-  return {}
+  return {};
 };
 
 const Card: FunctionComponent<CardProps> = (data) => {
@@ -51,7 +52,10 @@ const Card: FunctionComponent<CardProps> = (data) => {
         </span>
       </div>
 
-      <div className={styles.cardItemContainter}>{items}</div>
+      <div className={styles.cardItemContainter}>
+        {data.person && <Person name={data.person}/>}
+        {items}
+      </div>
       <span className={styles.comment}>{comment}</span>
     </div>
   );

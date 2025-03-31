@@ -27,15 +27,6 @@
     line-height: 2em;
 }
 
-/*
-.cardItem div {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-}
-*/
 
 .charDetailsContainer {
   width: 90%;
@@ -67,10 +58,3 @@
   color: #222;
   font-size: 1.6em;
 }
-
-/*
-.cardItem div:last-child {
-  border-bottom: none;
-  border-right: none;
-}
-*/
