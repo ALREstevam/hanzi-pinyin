@@ -10,12 +10,10 @@ export class TextToSpeech {
     const speech = new SpeechSynthesisUtterance(text);
 
     speech.onstart = () => {
-      console.log("Speech has started.");
       onStart && onStart();
     };
 
     speech.onend = () => {
-      console.log("Speech has ended.");
       onFinish && onFinish();
     };
 

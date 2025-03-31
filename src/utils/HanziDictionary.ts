@@ -7,7 +7,6 @@ export interface Radical {
 
 export default class HanziDictionary {
   static async getDefinition(char: string) {
-    console.log(`Getting definition of ${char}`)
     const result = hanzi.definitionLookup(char, "s");
     if (result) {
       return Array.from(new Set(result.map((el) => el.definition)))
