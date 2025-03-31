@@ -1,0 +1,106 @@
+{
+  "section": {
+    "h1": "Days of the Week"
+  },
+  "items": [
+    {
+      "text": "星期",
+      "title": "week",
+      "pinyin": "xīngqī",
+      "pronounce": "shing-chee",
+      "comment": "Refers to a **week** or the **days of the week**.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "日",
+      "title": "day/sun/date",
+      "pinyin": "rì",
+      "pronounce": "ree",
+      "comment": "Can mean **day**, **sun**, or a **calendar date**.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "生",
+      "title": "born/life/student",
+      "pinyin": "shēng",
+      "pronounce": "shuhng",
+      "comment": "Can mean **born**, **life**, or **student** (when combined with other characters). Used in words like **学生** (student) and **生命** (life).",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "天",
+      "title": "sky/heaven/day",
+      "pinyin": "tiān",
+      "pronounce": "tyan",
+      "comment": "Can mean **sky**, **heaven**, or **day**.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期一",
+      "title": "Monday",
+      "pinyin": "xīngqī yī",
+      "pronounce": "shing-chee ee",
+      "comment": "First day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期二",
+      "title": "Tuesday",
+      "pinyin": "xīngqī èr",
+      "pronounce": "shing-chee ar",
+      "comment": "Second day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期三",
+      "title": "Wednesday",
+      "pinyin": "xīngqī sān",
+      "pronounce": "shing-chee sahn",
+      "comment": "Third day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期四",
+      "title": "Thursday",
+      "pinyin": "xīngqī sì",
+      "pronounce": "shing-chee ssuh",
+      "comment": "Fourth day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期五",
+      "title": "Friday",
+      "pinyin": "xīngqī wǔ",
+      "pronounce": "shing-chee woo",
+      "comment": "Fifth day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期六",
+      "title": "Saturday",
+      "pinyin": "xīngqī liù",
+      "pronounce": "shing-chee lyoh",
+      "comment": "Sixth day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期天",
+      "title": "Sunday",
+      "pinyin": "xīngqī tiān",
+      "pronounce": "shing-chee tyan",
+      "comment": "Seventh day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

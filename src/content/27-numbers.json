@@ -1,0 +1,115 @@
+{
+  "section": {
+    "h1": "Numbers in Chinese"
+  },
+  "items": [
+    {
+      "text": "一",
+      "title": "One",
+      "pinyin": "yī",
+      "pronounce": "ee",
+      "comment": "Used to represent the number one.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "二",
+      "title": "Two",
+      "pinyin": "èr",
+      "pronounce": "ar",
+      "comment": "Used to represent the number two.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "三",
+      "title": "Three",
+      "pinyin": "sān",
+      "pronounce": "sahn",
+      "comment": "Used to represent the number three.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "四",
+      "title": "Four",
+      "pinyin": "sì",
+      "pronounce": "ssuh",
+      "comment": "Used to represent the number four.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "五",
+      "title": "Five",
+      "pinyin": "wǔ",
+      "pronounce": "woo",
+      "comment": "Used to represent the number five.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "十",
+      "title": "Ten",
+      "pinyin": "shí",
+      "pronounce": "shrr",
+      "comment": "Used to represent the number ten.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "二十",
+      "title": "Twenty",
+      "pinyin": "èrshí",
+      "pronounce": "ar-shrr",
+      "comment": "Used to represent the number twenty.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "三十",
+      "title": "Thirty",
+      "pinyin": "sānshí",
+      "pronounce": "sahn-shrr",
+      "comment": "Used to represent the number thirty.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "一百",
+      "title": "One hundred",
+      "pinyin": "yī bǎi",
+      "pronounce": "ee bye",
+      "comment": "Used to represent the number one hundred.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "一千",
+      "title": "One thousand",
+      "pinyin": "yī qiān",
+      "pronounce": "ee chyen",
+      "comment": "Used to represent the number one thousand.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "多少",
+      "title": "How many?",
+      "pinyin": "duōshǎo",
+      "pronounce": "dwoh-shao",
+      "comment": "Used to ask 'how many' or 'how much'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "零",
+      "title": "Zero",
+      "pinyin": "líng",
+      "pronounce": "ling",
+      "comment": "Used to represent the number zero.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

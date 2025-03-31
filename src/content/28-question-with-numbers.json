@@ -1,0 +1,164 @@
+{
+  "section": {
+    "h1": "Asking Age and Siblings"
+  },
+  "items": [
+    {
+      "text": "几",
+      "title": "How many?",
+      "pinyin": "jǐ",
+      "pronounce": "jee",
+      "comment": "Used to ask about a small number, such as age or quantity.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "items": [
+        {
+          "text": "你几岁？",
+          "title": "How old are you? (children)",
+          "pinyin": "nǐ jǐ suì?",
+          "pronounce": "nee jee swey?",
+          "comment": "Used to ask someone's age, typically for children or young people.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "你多大了？",
+          "title": "How old are you? (adults)",
+          "pinyin": "nǐ duō dà le?",
+          "pronounce": "nee dwoh dah luh?",
+          "comment": "Used to ask someone's age, commonly for adults.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "我28岁。",
+          "title": "I am 28 years old.",
+          "pinyin": "wǒ 28 suì.",
+          "pronounce": "waw èr bā suì.",
+          "comment": "Used to state one's age.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ]
+    },
+    {
+      "type": "DIALOG",
+      "items": [
+        {
+          "text": "你有几个兄弟姐妹？",
+          "title": "How many siblings do you have?",
+          "pinyin": "nǐ yǒu jǐ gè xiōngdì jiěmèi?",
+          "pronounce": "nee yoh jee guh syong-dee jyeh-may?",
+          "comment": "Used to ask about the number of siblings someone has.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "我有两个兄弟，一个姐妹。",
+          "title": "I have two brothers and one sister.",
+          "pinyin": "wǒ yǒu liǎng gè xiōngdì, yí gè jiěmèi.",
+          "pronounce": "waw yoh lyang guh syong-dee, yee guh jyeh-may.",
+          "comment": "A response indicating the number of siblings.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ]
+    },
+    {
+      "text": "女儿",
+      "title": "daughter",
+      "pinyin": "nǚ'ér",
+      "pronounce": "nyoo-err",
+      "comment": "Refers to **daughter** in the family.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "儿子",
+      "title": "son",
+      "pinyin": "érzi",
+      "pronounce": "ur-zi",
+      "comment": "Refers to **son** in the family.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "items": [
+        {
+          "text": "你家有几口人?",
+          "title": "How many people are in your family?",
+          "pinyin": "nǐ jiā yǒu jǐ kǒu rén?",
+          "pronounce": "nee jya yo jee koh ren?",
+          "comment": "Used to ask how many people are in someone's family.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "我家有五口人",
+          "title": "There are five people in my family.",
+          "pinyin": "wǒ jiā yǒu wǔ kǒu rén",
+          "pronounce": "woh jya yo woo koh ren",
+          "comment": "A typical response to the question 'How many people are in your family?'",
+          "type": "ANSWER",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ]
+    },
+    {
+      "type": "DIALOG",
+      "items": [
+        {
+          "text": "李老师多大了?",
+          "title": "How old is Teacher Li?",
+          "pinyin": "Lǐ lǎoshī duō dà le?",
+          "pronounce": "Lee laow-shrr dwaw dah luh?",
+          "comment": "Used to ask about Teacher Li's age.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "她今年50岁了",
+          "title": "He is 50 years old this year.",
+          "pinyin": "Tā jīnnián 50 suì le",
+          "pronounce": "Tah jin-nian 50 (wǔ shí) sway luh",
+          "comment": "The response to the question, stating Teacher Li's age.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        },
+        {
+          "text": "她女儿呢?",
+          "title": "What about her daughter?",
+          "pinyin": "Tā nǚ'ér ne?",
+          "pronounce": "Tah nyoo-err nuh?",
+          "comment": "Used to ask about someone's daughter after talking about the person.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "她女儿今年二十岁",
+          "title": "Her daughter is 20 years old this year.",
+          "pinyin": "Tā nǚ'ér jīnnián èr shí suì",
+          "pronounce": "Tah nyoo-err jin-nian ur shr sway",
+          "comment": "A response to the question about her daughter’s age.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ]
+    }
+  ]
+}

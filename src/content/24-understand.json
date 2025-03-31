@@ -1,0 +1,43 @@
+{
+  "section": {
+    "h1": "Understanding and Clarity"
+  },
+  "items": [
+    {
+      "text": "明白",
+      "title": "Understand / Clarity",
+      "pinyin": "míngbai",
+      "pronounce": "ming-bye",
+      "comment": "Can mean 'to understand' or 'clarity' depending on context.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "明白了吗？",
+      "title": "Do you understand?",
+      "pinyin": "míngbai le ma?",
+      "pronounce": "ming-bye luh ma?",
+      "comment": "Used to ask if someone understands something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我明白。",
+      "title": "I understand.",
+      "pinyin": "wǒ míngbai.",
+      "pronounce": "waw ming-bye.",
+      "comment": "Used to confirm that you understand something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "白色",
+      "title": "White color",
+      "pinyin": "báisè",
+      "pronounce": "bye-suh",
+      "comment": "Used to describe the color white.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

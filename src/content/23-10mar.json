@@ -1,0 +1,196 @@
+{
+  "section": {
+    "h1": "Mar 10 class"
+  },
+  "items": [
+    {
+      "text": "安全",
+      "title": "Safe / Safety",
+      "pinyin": "ānquán",
+      "pronounce": "an-chwan",
+      "comment": "'安全' (ānquán) means 'safe' or 'safety'. It can describe a secure situation or condition.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "女人",
+      "title": "Woman",
+      "pinyin": "nǚrén",
+      "pronounce": "nyoo-ren",
+      "comment": "'女人' (nǚrén) means 'woman' or 'female'. The character '女' (nǚ) represents femininity.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "男人",
+      "title": "Man / Men",
+      "pinyin": "nánrén",
+      "pronounce": "nan-ren",
+      "comment": "'男人' (nánrén) means 'man' or 'men'. The character '男' (nán) represents masculinity.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "手",
+      "title": "Hand",
+      "pinyin": "shǒu",
+      "pronounce": "show",
+      "comment": "'手' (shǒu) means 'hand'. It is commonly used in words related to manual actions or skills.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "秘密",
+      "title": "Secret",
+      "pinyin": "mìmì",
+      "pronounce": "mee-mee",
+      "comment": "'秘密' (mìmì) means 'secret'. It can refer to confidential information or something hidden.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "眼睛",
+      "title": "Eye",
+      "pinyin": "yǎnjing",
+      "pronounce": "yan-jing",
+      "comment": "'眼睛' (yǎnjing) means 'eye'. The character '眼' (yǎn) refers to the eye, while '睛' (jing) specifies the eyeball.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "耳朵",
+      "title": "Ear",
+      "pinyin": "ěrduo",
+      "pronounce": "ar-dwaw",
+      "comment": "'耳朵' (ěrduo) means 'ear'. '耳' (ěr) is the core character for 'ear', and '朵' (duo) is a common suffix in body part names.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "脚",
+      "title": "Foot / Feet",
+      "pinyin": "jiǎo",
+      "pronounce": "jyaow",
+      "comment": "'脚' (jiǎo) means 'foot' or 'feet'. It is used in words related to walking or movement.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "嘴",
+      "title": "Mouth",
+      "pinyin": "zuǐ",
+      "pronounce": "zway",
+      "comment": "'嘴' (zuǐ) means 'mouth'. It is commonly used in phrases related to speaking and eating.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "头",
+      "title": "Head",
+      "pinyin": "tóu",
+      "pronounce": "toh",
+      "comment": "'头' (tóu) means 'head'. It can also be used metaphorically, such as in '领导头' (lǐngdǎo tóu), meaning 'leader'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "同学",
+      "title": "Classmate",
+      "pinyin": "tóngxué",
+      "pronounce": "tong-shweh",
+      "comment": "'同学' (tóngxué) refers to a classmate, someone who studies in the same school or class.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "朋友",
+      "title": "Friend",
+      "pinyin": "péngyǒu",
+      "pronounce": "pung-yo",
+      "comment": "'朋友' (péngyǒu) means 'friend' and is commonly used to refer to close acquaintances.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "学生",
+      "title": "Student",
+      "pinyin": "xuéshēng",
+      "pronounce": "shweh-shung",
+      "comment": "'学生' (xuéshēng) means 'student', referring to someone who is studying at a school or university.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "东西",
+      "title": "Thing",
+      "pinyin": "dōngxi",
+      "pronounce": "dong-shee",
+      "comment": "'东西' (dōngxi) means 'thing' or 'object'. It is used to refer to physical items but not abstract concepts.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "地球",
+      "title": "Earth",
+      "pinyin": "dìqiú",
+      "pronounce": "dee-chyo",
+      "comment": "'地球' (dìqiú) means 'Earth', referring to the planet we live on. '地' (dì) means 'ground' or 'land', and '球' (qiú) means 'sphere' or 'ball'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "土",
+      "title": "Dirt / Soil",
+      "pinyin": "tǔ",
+      "pronounce": "too",
+      "comment": "'土' (tǔ) means 'dirt' or 'soil'. It is associated with earth, land, and agriculture.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "植物",
+      "title": "Plant",
+      "pinyin": "zhíwù",
+      "pronounce": "jr-woo",
+      "comment": "'植物' (zhíwù) means 'plant' or 'vegetation'. '植' (zhí) relates to planting, and '物' (wù) means 'thing' or 'object'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "生长",
+      "title": "Grow",
+      "pinyin": "shēngzhǎng",
+      "pronounce": "shung-jahng",
+      "comment": "'生长' (shēngzhǎng) means 'to grow' or 'growth'. It can refer to the development of plants, animals, or people.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "少",
+      "title": "Few / Less",
+      "pinyin": "shǎo",
+      "pronounce": "shao",
+      "comment": "'少' (shǎo) means 'few' or 'less'. It is used to describe a small quantity of something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "多",
+      "title": "Many / More",
+      "pinyin": "duō",
+      "pronounce": "dwaw",
+      "comment": "'多' (duō) means 'many' or 'more'. It is used to describe a large quantity of something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "也是",
+      "title": "Also is / Also am / Also are",
+      "pinyin": "yě shì",
+      "pronounce": "yeh shrr",
+      "comment": "'也是' (yě shì) means 'also is', 'also am', or 'also are'. It is used to express agreement or similarity in statements.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

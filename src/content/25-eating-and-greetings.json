@@ -1,0 +1,34 @@
+{
+  "section": {
+    "h1": "Eating and Greetings"
+  },
+  "items": [
+    {
+      "text": "你吃了吗？",
+      "title": "Have you eaten?",
+      "pinyin": "nǐ chī le ma?",
+      "pronounce": "nee chrr luh ma?",
+      "comment": "A common greeting in Chinese culture, often used like 'How are you?'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我吃了。",
+      "title": "I have eaten.",
+      "pinyin": "wǒ chī le.",
+      "pronounce": "waw chrr luh.",
+      "comment": "A typical response to confirm you have eaten.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我还没吃。",
+      "title": "I haven’t eaten yet.",
+      "pinyin": "wǒ hái méi chī.",
+      "pronounce": "waw hi may chrr.",
+      "comment": "Used to say you haven’t eaten yet.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

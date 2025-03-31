@@ -1,0 +1,115 @@
+{
+  "section": {
+    "h1": "Months"
+  },
+  "items": [
+    {
+      "text": "一月",
+      "title": "January",
+      "pinyin": "yī yuè",
+      "pronounce": "ee yweh",
+      "comment": "First month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "二月",
+      "title": "February",
+      "pinyin": "èr yuè",
+      "pronounce": "ar yweh",
+      "comment": "Second month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "三月",
+      "title": "March",
+      "pinyin": "sān yuè",
+      "pronounce": "sahn yweh",
+      "comment": "Third month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "四月",
+      "title": "April",
+      "pinyin": "sì yuè",
+      "pronounce": "ssuh yweh",
+      "comment": "Fourth month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "五月",
+      "title": "May",
+      "pinyin": "wǔ yuè",
+      "pronounce": "woo yweh",
+      "comment": "Fifth month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "六月",
+      "title": "June",
+      "pinyin": "liù yuè",
+      "pronounce": "lyoh yweh",
+      "comment": "Sixth month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "七月",
+      "title": "July",
+      "pinyin": "qī yuè",
+      "pronounce": "chee yweh",
+      "comment": "Seventh month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "八月",
+      "title": "August",
+      "pinyin": "bā yuè",
+      "pronounce": "bah yweh",
+      "comment": "Eighth month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "九月",
+      "title": "September",
+      "pinyin": "jiǔ yuè",
+      "pronounce": "jyoh yweh",
+      "comment": "Ninth month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "十月",
+      "title": "October",
+      "pinyin": "shí yuè",
+      "pronounce": "shrr yweh",
+      "comment": "Tenth month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "十一月",
+      "title": "November",
+      "pinyin": "shí yī yuè",
+      "pronounce": "shrr ee yweh",
+      "comment": "Eleventh month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "十二月",
+      "title": "December",
+      "pinyin": "shí èr yuè",
+      "pronounce": "shrr ar yweh",
+      "comment": "Twelfth month of the year.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

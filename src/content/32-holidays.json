@@ -1,0 +1,61 @@
+{
+  "section": {
+    "h1": "Holidays"
+  },
+  "items": [
+    {
+      "text": "假期",
+      "title": "holiday",
+      "pinyin": "jiàqī",
+      "pronounce": "jya chee",
+      "comment": "Refers to a **holiday** or **vacation period**, typically used for longer breaks.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "假日",
+      "title": "holiday (day off)",
+      "pinyin": "jiàrì",
+      "pronounce": "jya ree",
+      "comment": "Refers to a **day off** or **holiday**. Often used for weekends or public holidays.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "节日",
+      "title": "festival",
+      "pinyin": "jiérì",
+      "pronounce": "jyeh ree",
+      "comment": "Refers to a **festival** or **traditional holiday**. For example, Chinese New Year (**春节 - chūnjié**).",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "春节",
+      "title": "Chinese New Year",
+      "pinyin": "chūnjié",
+      "pronounce": "choon jyeh",
+      "comment": "Refers to **Chinese New Year**, one of the most important holidays in China, celebrated on the first day of the lunar calendar.",
+      "type": "BASE",
+      "titlePrefix": "Traditional"
+    },
+    {
+      "text": "国庆节",
+      "title": "National Day",
+      "pinyin": "guóqìng jié",
+      "pronounce": "gwaw ching jyeh",
+      "comment": "Refers to **National Day** (October 1st), celebrating the founding of the People's Republic of China.",
+      "type": "BASE",
+      "titlePrefix": "National"
+    },
+    {
+      "text": "中秋节",
+      "title": "Mid-Autumn Festival",
+      "pinyin": "zhōngqiū jié",
+      "pronounce": "jong-choo jyeh",
+      "comment": "Refers to **Mid-Autumn Festival**, celebrated on the 15th day of the 8th lunar month, associated with moon worship and mooncakes.",
+      "type": "BASE",
+      "titlePrefix": "Traditional"
+    }
+  ]
+}

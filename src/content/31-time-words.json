@@ -1,0 +1,52 @@
+{
+  "section": {
+    "h1": "Time-related Words"
+  },
+  "items": [
+    {
+      "text": "天",
+      "title": "sky/heaven/day",
+      "pinyin": "tiān",
+      "pronounce": "tyan",
+      "comment": "Can mean **sky**, **heaven**, or **day** depending on context.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "天天",
+      "title": "every day",
+      "pinyin": "tiāntiān",
+      "pronounce": "tyan tyan",
+      "comment": "Used to express the idea of something happening **every day** or **daily**. It emphasizes regularity.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "今天",
+      "title": "today",
+      "pinyin": "jīntiān",
+      "pronounce": "jin tyan",
+      "comment": "Refers to **today** or the present day.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "明天",
+      "title": "tomorrow",
+      "pinyin": "míngtiān",
+      "pronounce": "ming tyan",
+      "comment": "Refers to **tomorrow** or the day after today.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "昨天",
+      "title": "yesterday",
+      "pinyin": "zuótiān",
+      "pronounce": "zwaw tyan",
+      "comment": "Refers to **yesterday** or the day before today.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

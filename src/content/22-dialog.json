@@ -1,0 +1,125 @@
+{
+  "section": {
+    "h1": "Mar 10 class - DIALOG"
+  },
+  "items": [
+    {
+      "type": "DIALOG",
+      "items": [
+        {
+          "text": "他是谁？",
+          "title": "Who is he?",
+          "pinyin": "tā shì shéi?",
+          "pronounce": "tah shrr shay?",
+          "comment": "A question asking for someone's identity. '谁' (shéi) means 'who'.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "他是我同学。",
+          "title": "He is my classmate.",
+          "pinyin": "tā shì wǒ tóngxué.",
+          "pronounce": "tah shrr waw tong-shweh.",
+          "comment": "A simple statement introducing someone as a classmate.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        },
+        {
+          "text": "他呢？你同他是学吗？",
+          "title": "What about him? Are you studying with him?",
+          "pinyin": "tā ne? nǐ tóng tā shì xué ma?",
+          "pronounce": "tah nuh? nee tong tah shrr shweh ma?",
+          "comment": "The particle '呢' (ne) is used to ask 'what about' someone. '学' (xué) means 'study'.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "他不是我同学。他是我朋友。",
+          "title": "He is not my classmate. He is my friend.",
+          "pinyin": "tā bù shì wǒ tóngxué. tā shì wǒ péngyǒu.",
+          "pronounce": "tah boo shrr waw tong-shweh. tah shrr waw pung-yo.",
+          "comment": "A negative statement using '不是' (bù shì) to deny something. '朋友' (péngyǒu) means 'friend', introducing a different relationship.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ] 
+    }
+    ,
+    {
+      "text": "同学",
+      "title": "Classmate",
+      "pinyin": "tóngxué",
+      "pronounce": "tong-shweh",
+      "comment": "'同学' (tóngxué) refers to a classmate, someone who studies in the same school or class.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "呢",
+      "title": "What about...?",
+      "pinyin": "ne",
+      "pronounce": "nuh",
+      "comment": "The particle '呢' (ne) is used to turn a statement into a follow-up question, often meaning 'what about...?'",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "是学",
+      "title": "To study",
+      "pinyin": "shì xué",
+      "pronounce": "shrr shweh",
+      "comment": "'是学' (shì xué) is not a common phrase. If intended as 'studying,' the correct word is '学习' (xuéxí).",
+      "type": "CORRECTION",
+      "titlePrefix": ""
+    },
+    {
+      "text": "朋友",
+      "title": "Friend",
+      "pinyin": "péngyǒu",
+      "pronounce": "pung-yo",
+      "comment": "'朋友' (péngyǒu) means 'friend' and is commonly used to refer to close acquaintances.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "你同",
+      "title": "You and...",
+      "pinyin": "nǐ tóng",
+      "pronounce": "nee tong",
+      "comment": "'你同' (nǐ tóng) is not a common phrase in Mandarin. A more natural expression for 'you and' would be '你和' (nǐ hé).",
+      "type": "CORRECTION",
+      "titlePrefix": ""
+    },
+    {
+      "text": "小学",
+      "title": "Elementary school",
+      "pinyin": "xiǎoxué",
+      "pronounce": "shyaow-shweh",
+      "comment": "'小学' (xiǎoxué) refers to elementary or primary school, typically covering early education years.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "中学",
+      "title": "Middle school / High school",
+      "pinyin": "zhōngxué",
+      "pronounce": "jong-shweh",
+      "comment": "'中学' (zhōngxué) refers to middle school and high school education. '中' (zhōng) means 'middle' or 'central'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "大学",
+      "title": "University / College",
+      "pinyin": "dàxué",
+      "pronounce": "dah-shweh",
+      "comment": "'大学' (dàxué) means university or college, referring to higher education institutions.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

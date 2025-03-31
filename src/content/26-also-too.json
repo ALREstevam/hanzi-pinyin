@@ -1,0 +1,43 @@
+{
+  "section": {
+    "h1": "Also / Too"
+  },
+  "items": [
+    {
+      "text": "也说",
+      "title": "Also / Is also",
+      "pinyin": "yě shì",
+      "pronounce": "yeh shrr",
+      "comment": "Used to indicate something is also the case or true.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "小明是我的同学, 也说我的朋友。",
+      "title": "Xiao Ming is my classmate, and also my friend.",
+      "pinyin": "xiǎo míng shì wǒ de tóngxué, yě shì wǒ de péngyǒu.",
+      "pronounce": "shyow ming shrr waw duh tong-shweh, yeh shrr waw duh pung-yoe.",
+      "comment": "Used to introduce Xiao Ming as both a classmate and a friend.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我也很喜欢吃中国菜。",
+      "title": "I also really like Chinese food.",
+      "pinyin": "wǒ yě hěn xǐhuān chī zhōngguó cài.",
+      "pronounce": "waw yeh hun shee-hwahn chrr jong-gwaw tsai.",
+      "comment": "Used to say you also like something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "他是我的老师, 也是我的朋友。",
+      "title": "He is my teacher, and also my friend.",
+      "pinyin": "tā shì wǒ de lǎoshī, yě shì wǒ de péngyǒu.",
+      "pronounce": "tah shrr waw duh laow-shrr, yeh shrr waw duh pung-yoe.",
+      "comment": "Used to express that someone is both a teacher and a friend.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}
