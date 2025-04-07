@@ -7,7 +7,14 @@ export class TextToSpeech {
     onFinish?: () => void
   ) {
     if (!text.trim()) return;
+
     const speech = new SpeechSynthesisUtterance(text);
+    const voicesList = window.speechSynthesis.getVoices();
+    speech.voice = voicesList.find((voice) => voice.lang === lang) || null;
+    speech.text = text;
+    speech.pitch = 1.0;
+    speech.lang = lang;
+    speech.rate = { NORMAL: 0.8, SLOW: 0.5 }[speed];
 
     speech.onstart = () => {
       onStart && onStart();
@@ -17,11 +24,9 @@ export class TextToSpeech {
       onFinish && onFinish();
     };
 
-    speech.text = text;
-    speech.pitch = 1.0;
-    speech.lang = lang;
-    speech.rate = { NORMAL: 0.8, SLOW: 0.5 }[speed];
     speechSynthesis.speak(speech);
   }
 }
+
+
 
