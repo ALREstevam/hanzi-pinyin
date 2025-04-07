@@ -1,0 +1,71 @@
+{
+  "section": {
+    "h1": "Extra"
+  },
+  "items": [
+    {
+      "text": "会",
+      "title": "can; to know how to",
+      "pinyin": "huì",
+      "pronounce": "hway",
+      "comment": "Indicates ability or learned skill, such as speaking a language.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "说",
+      "title": "to speak; to say",
+      "pinyin": "shuō",
+      "pronounce": "shwaw",
+      "comment": "Common verb used when talking about speaking a language or saying something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "title": "Do you (or your mother) speak Chinese?",
+      "items": [
+        {
+          "text": "你会说汉语吗？",
+          "title": "Can you speak Chinese?",
+          "pinyin": "nǐ huì shuō Hànyǔ ma?",
+          "pronounce": "nee hway shwaw han-yoo ma?",
+          "comment": "Used to ask if someone can speak Chinese.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "我会说汉语。",
+          "title": "I can speak Chinese.",
+          "pinyin": "wǒ huì shuō Hànyǔ.",
+          "pronounce": "waw hway shwaw han-yoo.",
+          "comment": "Used to say that you can speak Chinese.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        },
+        {
+          "text": "你妈妈会说汉语吗？",
+          "title": "Can your mother speak Chinese?",
+          "pinyin": "nǐ māma huì shuō Hànyǔ ma?",
+          "pronounce": "nee mah-ma hway shwaw han-yoo ma?",
+          "comment": "Used to ask if someone's mother can speak Chinese.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "她不会说。",
+          "title": "She can't speak (Chinese).",
+          "pinyin": "tā bú huì shuō.",
+          "pronounce": "tah boo hway shwaw.",
+          "comment": "A negative response, meaning she cannot speak (Chinese is implied).",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ]
+    }
+  ]
+}

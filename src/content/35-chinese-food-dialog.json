@@ -1,0 +1,89 @@
+{
+  "section": {
+    "h1": "Dialog chinese food"
+  },
+  "items": [
+    {
+      "text": "菜",
+      "title": "dish; cuisine; vegetables",
+      "pinyin": "cài",
+      "pronounce": "tsai",
+      "comment": "Refers to dishes or cuisine, often used when talking about food.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "很",
+      "title": "very",
+      "pinyin": "hěn",
+      "pronounce": "huhn",
+      "comment": "Common adverb used for emphasis, like 'very'. Often pairs with adjectives.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "好吃",
+      "title": "delicious",
+      "pinyin": "hǎochī",
+      "pronounce": "how-chr",
+      "comment": "Literally 'good to eat', used to describe tasty food.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "做",
+      "title": "to make; to do",
+      "pinyin": "zuò",
+      "pronounce": "dzwoh",
+      "comment": "Common verb for making or doing something, including cooking.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "title": "Do you like Chinese food?",
+      "items": [
+        {
+          "text": "中国菜好吃吗？",
+          "title": "Is Chinese food delicious?",
+          "pinyin": "Zhōngguó cài hǎochī ma?",
+          "pronounce": "jong-gwaw tsai how-chr ma?",
+          "comment": "Used to ask if Chinese food tastes good.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "中国菜很好吃。",
+          "title": "Chinese food is very delicious.",
+          "pinyin": "Zhōngguó cài hěn hǎochī.",
+          "pronounce": "jong-gwaw tsai hunn how-chr.",
+          "comment": "Used to express that Chinese food is very tasty.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        },
+        {
+          "text": "你会做中国菜吗？",
+          "title": "Can you cook Chinese food?",
+          "pinyin": "nǐ huì zuò Zhōngguó cài ma?",
+          "pronounce": "nee hway dzwaw jong-gwaw tsai ma?",
+          "comment": "Used to ask if someone knows how to cook Chinese food.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "我不会做。",
+          "title": "I can’t cook.",
+          "pinyin": "wǒ bú huì zuò.",
+          "pronounce": "waw boo hway dzwaw.",
+          "comment": "Negative answer meaning the speaker doesn't know how to cook (implied: Chinese food).",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ]
+    }
+  ]
+}

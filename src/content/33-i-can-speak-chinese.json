@@ -1,0 +1,61 @@
+{
+  "section": {
+    "h1": "More base words"
+  },
+  "items": [
+    {
+      "text": "妈妈",
+      "title": "Mom / Mother",
+      "pinyin": "mā ma",
+      "pronounce": "ma ma",
+      "comment": "A common and affectionate way to say 'mom' in Chinese.",
+      "type": "BASE",
+      "titlePrefix": "👩‍👧"
+    },
+    {
+      "text": "说汉语",
+      "title": "Speak Chinese",
+      "pinyin": "shuō hànyǔ",
+      "pronounce": "shwaw han-yu",
+      "comment": "Used when referring to speaking Mandarin Chinese.",
+      "type": "BASE",
+      "titlePrefix": "🗣️"
+    },
+    {
+      "text": "汉字",
+      "title": "Chinese character",
+      "pinyin": "hàn zì",
+      "pronounce": "han dzuh",
+      "comment": "The logographic characters used in written Chinese.",
+      "type": "BASE",
+      "titlePrefix": "🔤"
+    },
+    {
+      "text": "写汉字",
+      "title": "Write Chinese characters",
+      "pinyin": "xiě hànzì",
+      "pronounce": "shyeh han-dzuh",
+      "comment": "Refers to the action of writing Chinese characters.",
+      "type": "BASE",
+      "titlePrefix": "✍️"
+    },
+    {
+      "text": "中国菜",
+      "title": "Chinese food",
+      "pinyin": "Zhōngguó cài",
+      "pronounce": "jong-gwaw tsai",
+      "comment": "A general term for Chinese cuisine.",
+      "type": "BASE",
+      "titlePrefix": "🍜"
+    },
+    {
+      "text": "做中国菜",
+      "title": "Cook Chinese food",
+      "pinyin": "zuò Zhōngguó cài",
+      "pronounce": "dzwaw jong-gwaw tsai",
+      "comment": "Refers to the act of preparing or cooking Chinese dishes.",
+      "type": "BASE",
+      "titlePrefix": "👩‍🍳"
+    }
+  ]
+}

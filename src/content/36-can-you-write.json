@@ -1,0 +1,98 @@
+{
+  "section": {
+    "h1": "Dialog - can you write?"
+  },
+  "items": [
+    {
+      "text": "写",
+      "title": "to write",
+      "pinyin": "xiě",
+      "pronounce": "shyeah",
+      "comment": "Common verb used when writing characters or words.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "汉字",
+      "title": "Chinese characters",
+      "pinyin": "hànzì",
+      "pronounce": "han-dzuh",
+      "comment": "Refers specifically to Chinese written characters.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "字",
+      "title": "character; word",
+      "pinyin": "zì",
+      "pronounce": "dzuh",
+      "comment": "A single written character, often used when asking about writing or reading.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "怎么",
+      "title": "how",
+      "pinyin": "zěnme",
+      "pronounce": "dzuhn-muh",
+      "comment": "Used to ask 'how' something is done.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "读",
+      "title": "to read",
+      "pinyin": "dú",
+      "pronounce": "doo",
+      "comment": "Refers to reading aloud or recognizing written characters.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "title": "Can you write Chinese characters?",
+      "items": [
+        {
+          "text": "你会写汉字吗？",
+          "title": "Can you write Chinese characters?",
+          "pinyin": "nǐ huì xiě hànzì ma?",
+          "pronounce": "nee hway shyeah han-dzuh ma?",
+          "comment": "Used to ask if someone can write Chinese characters.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "我会写。",
+          "title": "I can write.",
+          "pinyin": "wǒ huì xiě.",
+          "pronounce": "waw hway shyeah.",
+          "comment": "Simple affirmative response indicating writing ability.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        },
+        {
+          "text": "这个字怎么写？",
+          "title": "How do you write this character?",
+          "pinyin": "zhège zì zěnme xiě?",
+          "pronounce": "juh-guh dzuh dzuhn-muh shyeah?",
+          "comment": "Used to ask how to write a specific character.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "A"
+        },
+        {
+          "text": "对不起，这个字我会读，不会写。",
+          "title": "Sorry, I can read this character but can't write it.",
+          "pinyin": "duìbuqǐ, zhège zì wǒ huì dú, bú huì xiě.",
+          "pronounce": "dway-boo-chee, juh-guh dzuh waw hway doo, boo hway shyeah.",
+          "comment": "Polite response explaining one can read but not write the character.",
+          "type": "BASE",
+          "titlePrefix": "",
+          "person": "B"
+        }
+      ]
+    }
+  ]
+}

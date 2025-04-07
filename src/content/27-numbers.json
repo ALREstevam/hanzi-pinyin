@@ -49,10 +49,46 @@
       "titlePrefix": ""
     },
     {
+      "text": "六",
+      "title": "Six",
+      "pinyin": "liù",
+      "pronounce": "lyoh",
+      "comment": "Used to represent the number six.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "七",
+      "title": "Seven",
+      "pinyin": "qī",
+      "pronounce": "chee",
+      "comment": "Used to represent the number seven.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "八",
+      "title": "Eight",
+      "pinyin": "bā",
+      "pronounce": "bah",
+      "comment": "Used to represent the number eight.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "九",
+      "title": "Nine",
+      "pinyin": "jiǔ",
+      "pronounce": "jyoh",
+      "comment": "Used to represent the number nine.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
       "text": "十",
       "title": "Ten",
       "pinyin": "shí",
-      "pronounce": "shrr",
+      "pronounce": "shuh",
       "comment": "Used to represent the number ten.",
       "type": "BASE",
       "titlePrefix": ""
