@@ -3,8 +3,8 @@ import { CardData } from "../@types/Item";
 import { CardItem } from "./CardItem";
 import styles from "./Card.module.css";
 import clsx from "clsx";
-import { TextToSpeech } from "../utils/tts";
 import Person from "./Person";
+import CopyAndSay from "../utils/CopyAndSay";
 
 type CardProps = CardData;
 
@@ -37,13 +37,13 @@ const Card: FunctionComponent<CardProps> = (data) => {
       <div className={styles.containerCardMeta}>
         <span
           className={clsx(styles.pinyinFull, styles.metaTextBase)}
-          onClick={() => TextToSpeech.say(textToSay, "zh-CN", "SLOW")}
+          onClick={CopyAndSay.text(pinyin).chinese.slow}
         >
           {pinyin}
         </span>
         <span
           className={clsx(styles.hanziFull, styles.metaTextBase)}
-          onClick={() => TextToSpeech.say(textToSay, "zh-CN", "NORMAL")}
+          onClick={CopyAndSay.text(textToSay).chinese.normal}
         >
           {text}
         </span>
@@ -60,7 +60,6 @@ const Card: FunctionComponent<CardProps> = (data) => {
     </div>
   );
 };
-
 // <span className={styles.comment}>{comment}</span>
 
 export default Card;
