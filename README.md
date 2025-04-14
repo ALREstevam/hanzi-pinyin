@@ -1,3 +1,18 @@
+
+# Hanzi-Pinyin
+
+https://alrestevam.github.io/hanzi-pinyin/
+
+![image-20250414004727956](./assets/image-20250414004727956.png)
+
+# Qwickstart
+
+* `yarn start`: start the project in development mode
+* `yarn deploy`: deploy to GitHub Pages
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
