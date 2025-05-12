@@ -1,0 +1,91 @@
+{
+  "section": {
+    "h1": "Dialog afternoon shopping"
+  },
+  "items": [
+    {
+      "text": "下午",
+      "title": "afternoon",
+      "pinyin": "xiàwǔ",
+      "pronounce": "shyah-woo",
+      "comment": "Refers to the period after noon.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "商店",
+      "title": "shop, store",
+      "pinyin": "shāngdiàn",
+      "pronounce": "shahng-dyen",
+      "comment": "A place where goods are sold.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "买",
+      "title": "to buy, to purchase",
+      "pinyin": "mǎi",
+      "pronounce": "mai",
+      "comment": "Verb used for buying things.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "个",
+      "title": "a general measure word",
+      "pinyin": "gè",
+      "pronounce": "guh",
+      "comment": "Used as a classifier for objects.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "杯子",
+      "title": "cup, glass",
+      "pinyin": "bēizi",
+      "pronounce": "bay-zuh",
+      "comment": "Used to hold drinks.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "title": "Afternoon Plans and Shopping",
+      "items": [
+        {
+          "text": "下午你想做什么？",
+          "title": "What would you like to do this afternoon?",
+          "pinyin": "Xiàwǔ nǐ xiǎng zuò shénme?",
+          "pronounce": "shyah-woo nee shyahng dzwaw shuhn-muh?",
+          "comment": "Asking about afternoon plans.",
+          "person": "A"
+        },
+        {
+          "text": "下午我想去商店。",
+          "title": "I’d like to go shopping.",
+          "pinyin": "Xiàwǔ wǒ xiǎng qù shāngdiàn.",
+          "pronounce": "shyah-woo waw shyahng chyoo shahng-dyen.",
+          "comment": "Expressing a desire to go to a store.",
+          "person": "B"
+        },
+        {
+          "text": "你想买什么？",
+          "title": "What do you want to buy?",
+          "pinyin": "Nǐ xiǎng mǎi shénme?",
+          "pronounce": "nee shyahng mai shuhn-muh?",
+          "comment": "Asking about purchase intentions.",
+          "person": "A"
+        },
+        {
+          "text": "我想买一个杯子。",
+          "title": "I want to buy a cup.",
+          "pinyin": "Wǒ xiǎng mǎi yí ge bēizi.",
+          "pronounce": "waw shyahng mai yee guh bay-zuh.",
+          "comment": "Stating the item one wants to buy.",
+          "person": "B"
+        }
+      ]
+    }
+  ]
+}
+    

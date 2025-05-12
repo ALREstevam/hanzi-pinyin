@@ -1,0 +1,90 @@
+{
+  "section": {
+    "h1": "Dialog food and drink"
+  },
+  "items": [
+    {
+      "text": "想",
+      "title": "to want; would like",
+      "pinyin": "xiǎng",
+      "pronounce": "shyahng",
+      "comment": "Modal verb used to express desire or intention.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "喝",
+      "title": "to drink",
+      "pinyin": "hē",
+      "pronounce": "huh",
+      "comment": "Verb used for drinking.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "茶",
+      "title": "tea",
+      "pinyin": "chá",
+      "pronounce": "chah",
+      "comment": "A common beverage in Chinese culture.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "吃",
+      "title": "to eat",
+      "pinyin": "chī",
+      "pronounce": "chir",
+      "comment": "Verb used for eating.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "米饭",
+      "title": "cooked rice",
+      "pinyin": "mǐfàn",
+      "pronounce": "mee-fahn",
+      "comment": "Common staple food in Chinese cuisine.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "title": "Food and Drink Preferences",
+      "items": [
+        {
+          "text": "你想喝什么？",
+          "title": "What would you like to drink?",
+          "pinyin": "Nǐ xiǎng hē shénme?",
+          "pronounce": "nee shyahng huh shuhn-muh?",
+          "comment": "Asking someone what they'd like to drink.",
+          "person": "A"
+        },
+        {
+          "text": "我想喝茶。",
+          "title": "I'd like some tea.",
+          "pinyin": "Wǒ xiǎng hē chá.",
+          "pronounce": "waw shyahng huh chah.",
+          "comment": "Expressing preference for tea.",
+          "person": "B"
+        },
+        {
+          "text": "你想吃什么？",
+          "title": "What would you like to eat?",
+          "pinyin": "Nǐ xiǎng chī shénme?",
+          "pronounce": "nee shyahng chir shuhn-muh?",
+          "comment": "Asking someone what they'd like to eat.",
+          "person": "A"
+        },
+        {
+          "text": "我想吃米饭。",
+          "title": "I'd like rice.",
+          "pinyin": "Wǒ xiǎng chī mǐfàn.",
+          "pronounce": "waw shyahng chir mee-fahn.",
+          "comment": "Expressing preference for rice.",
+          "person": "B"
+        }
+      ]
+    }
+  ]
+}

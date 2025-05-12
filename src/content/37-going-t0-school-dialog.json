@@ -1,0 +1,103 @@
+{
+  "section": {
+    "h1": "Dialog going to school"
+  },
+  "items": [
+    {
+      "text": "明天",
+      "title": "tomorrow",
+      "pinyin": "míngtiān",
+      "pronounce": "ming-tyen",
+      "comment": "Used to refer to the next day.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "星期六",
+      "title": "Saturday",
+      "pinyin": "xīngqī liù",
+      "pronounce": "shing-chee lyoh",
+      "comment": "Refers to Saturday, the sixth day of the week.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "学校",
+      "title": "school",
+      "pinyin": "xuéxiào",
+      "pronounce": "shweh-shyaow",
+      "comment": "Refers to an educational institution, school.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "去",
+      "title": "to go",
+      "pinyin": "qù",
+      "pronounce": "chyoo",
+      "comment": "Verb meaning 'to go' somewhere.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "做",
+      "title": "to do",
+      "pinyin": "zuò",
+      "pronounce": "dzwoh",
+      "comment": "Common verb for doing something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "看书",
+      "title": "read books",
+      "pinyin": "kàn shū",
+      "pronounce": "kahn shoo",
+      "comment": "Means 'to read books'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "type": "DIALOG",
+      "title": "Going to school",
+      "items": [
+        {
+          "text": "明天星期六，你去学校吗？",
+          "title": "Tomorrow is Saturday. Are you going to school?",
+          "pinyin": "Míngtiān xīngqī liù, nǐ qù xuéxiào ma?",
+          "pronounce": "ming-tyen shing-chee lyoh, nee chyoo shweh-shyaow ma?",
+          "comment": "A question asking if the person will go to school tomorrow.",
+          "type": "BASE",
+          "person": "A"
+        },
+        {
+          "text": "我去学校。",
+          "title": "I’m going to school.",
+          "pinyin": "Wǒ qù xuéxiào.",
+          "pronounce": "waw chyoo shweh-shyaow.",
+          "comment": "Simple sentence indicating that the speaker is going to school.",
+          "type": "BASE",
+          "person": "B"
+        },
+        {
+          "text": "你去学校做什么？",
+          "title": "What are you going to do at school?",
+          "pinyin": "Nǐ qù xuéxiào zuò shénme?",
+          "pronounce": "nee chyoo shweh-shyaow dzwaw shuhn-muh?",
+          "comment": "Asking what someone is going to do at school.",
+          "type": "BASE",
+          "person": "A"
+        },
+        {
+          "text": "我去学校看书。",
+          "title": "I’m going to school to read books.",
+          "pinyin": "Wǒ qù xuéxiào kàn shū.",
+          "pronounce": "waw chyoo shweh-shyaow kahn shoo.",
+          "comment": "Explains the purpose of going to school.",
+          "type": "BASE",
+          "person": "B"
+        }
+      ]
+    }
+  ]
+}
