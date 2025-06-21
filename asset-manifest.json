@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hanzi-pinyin/static/css/main.863fe8a9.css",
-    "main.js": "/hanzi-pinyin/static/js/main.ded3f230.js",
+    "main.js": "/hanzi-pinyin/static/js/main.20ca9358.js",
     "static/js/453.8e92e5ca.chunk.js": "/hanzi-pinyin/static/js/453.8e92e5ca.chunk.js",
     "index.html": "/hanzi-pinyin/index.html",
     "main.863fe8a9.css.map": "/hanzi-pinyin/static/css/main.863fe8a9.css.map",
-    "main.ded3f230.js.map": "/hanzi-pinyin/static/js/main.ded3f230.js.map",
+    "main.20ca9358.js.map": "/hanzi-pinyin/static/js/main.20ca9358.js.map",
     "453.8e92e5ca.chunk.js.map": "/hanzi-pinyin/static/js/453.8e92e5ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.863fe8a9.css",
-    "static/js/main.ded3f230.js"
+    "static/js/main.20ca9358.js"
   ]
 }
