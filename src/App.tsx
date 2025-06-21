@@ -1,39 +1,47 @@
-import React, { Fragment } from "react";
+import React, { Fragment, useEffect, useState } from "react";
+import useDebouncedSearch from "./hooks/useDebouncedSearch";
+import SearchBar from "./components/SearchBar";
 import "./App.css";
 import "./HanziPaint.css";
 import hanzi from "hanzi";
 import Card from "./components/Card";
-
 import { CardData, Content, DialogData } from "./@types/Item";
+
 import Dialog from "./components/Dialog";
+import useFilteredSections from "./hooks/useFilteredSections";
+import TableOfContents from "./components/TableOfContents";
+
+import { importAll } from "./utils/FileContentLoader";
 
 const sections: Content[] = importAll(
   require.context("./content", false, /\.json$/)
 );
 
-function sortFilenames(filenames: (string | null)[]): string[] {
-  return filenames
-    .filter((file): file is string => file !== null) // Remove null values
-    .sort((a, b) => {
-      const numA = a.match(/\d+/) ? parseInt(a.match(/\d+/)![0], 10) : 0;
-      const numB = b.match(/\d+/) ? parseInt(b.match(/\d+/)![0], 10) : 0;
-      return numA - numB;
-    });
-}
-
-function importAll(r: __WebpackModuleApi.RequireContext): Content[] {
-  const fileNames = sortFilenames(r.keys());
-  return fileNames.map((fileName: string) => r(fileName) as Content);
-}
-
 function App() {
-  hanzi.start();
+  const [hanziInitialized, setHanziInitialized] = useState(false);
+
+  useEffect(() => {
+    hanzi.start();
+    setHanziInitialized(true);
+  }, []);
+
+  const { searchTerm, setSearchTerm, debouncedSearchTerm } = useDebouncedSearch("", 300);
+
+  const filteredSections = useFilteredSections(sections, debouncedSearchTerm);
 
   return (
     <div className="App">
-      {sections.map((content, index) => (
-        <Section key={index} content={content} />
-      ))}
+      <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
+      {hanziInitialized ? (
+        <Fragment>
+          <TableOfContents sections={filteredSections} />
+          {filteredSections.map((content, index) => (
+            <Section key={index} content={content} />
+          ))}
+        </Fragment>
+      ) : (
+        <div>Loading Hanzi data...</div>
+      )}
     </div>
   );
 }
@@ -72,7 +80,7 @@ const Section = ({ content }: { content: Content }) => {
 
   return (
     <Fragment>
-      <h1>{content.section.h1}</h1>
+      <h1 id={content.section.h1.replace(/\s+/g, '-').toLowerCase()}>{content.section.h1}</h1>
       {cards}
     </Fragment>
   );

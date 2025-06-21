@@ -1,10 +1,11 @@
-import { FunctionComponent } from "react";
+import { FunctionComponent, useState } from "react";
 import { CardData } from "../@types/Item";
 import { CardItem } from "./CardItem";
 import styles from "./Card.module.css";
 import clsx from "clsx";
 import Person from "./Person";
 import CopyAndSay from "../utils/CopyAndSay";
+import Modal from "./Modal";
 
 type CardProps = CardData;
 
@@ -19,7 +20,8 @@ const getFlex = (items: number) => {
 };
 
 const Card: FunctionComponent<CardProps> = (data) => {
-  const { pinyin, pronounce, title, comment, titlePrefix } = data;
+  const { pinyin, pronounce, title, titlePrefix } = data;
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const fullText = data.textToDisplay || data.text;
   const text = fullText.split("");
@@ -34,6 +36,11 @@ const Card: FunctionComponent<CardProps> = (data) => {
         {titlePrefix ? `${titlePrefix} ` : ""}
         {title}
       </h3>
+      {text.length > 1 && (
+        <button className={styles.flowChartButton} onClick={() => setIsModalOpen(true)}>
+          <img src="https://img.icons8.com/stickers/50/flow-chart.png" alt="Flow Chart" className={styles.flowChartIcon} />
+        </button>
+      )}
       <div className={styles.containerCardMeta}>
         <span
           className={clsx(styles.pinyinFull, styles.metaTextBase)}
@@ -51,6 +58,12 @@ const Card: FunctionComponent<CardProps> = (data) => {
           {pronounce}
         </span>
       </div>
+      {text.length > 1 && (
+        <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)}>
+          <h2>Flow Chart for {title}</h2>
+          <p>This is a placeholder for the flow chart content.</p>
+        </Modal>
+      )}
 
       <div className={styles.cardItemContainter}>
         {data.person && <Person name={data.person}/>}

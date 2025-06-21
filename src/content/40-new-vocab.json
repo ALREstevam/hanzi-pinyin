@@ -1,0 +1,799 @@
+{
+  "section": {
+    "h1": "New Vocabulary and Phrases"
+  },
+  "items": [
+    {
+      "text": "听",
+      "title": "Listen",
+      "pinyin": "tīng",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "到",
+      "title": "Arrive / To (a place)",
+      "pinyin": "dào",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "作业",
+      "title": "Homework",
+      "pinyin": "zuòyè",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "周末",
+      "title": "Weekend",
+      "pinyin": "zhōumò",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "但是",
+      "title": "But / However",
+      "pinyin": "dànshì",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "开心",
+      "title": "Happy / Joyful",
+      "pinyin": "kāixīn",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "炒面",
+      "title": "Chow Mein (fried noodles)",
+      "pinyin": "chǎomiàn",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "在",
+      "title": "At / In / On (location) / (indicates an action in progress)",
+      "pinyin": "zài",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "碗",
+      "title": "Bowl",
+      "pinyin": "wǎn",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "大家好！",
+      "title": "Hello everyone!",
+      "pinyin": "dàjiā hǎo!",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "饭馆",
+      "title": "Restaurant",
+      "pinyin": "fànguǎn",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "睡觉",
+      "title": "Sleep",
+      "pinyin": "shuìjiào",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "觉得",
+      "title": "Feel / Think",
+      "pinyin": "juédé",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "买卖",
+      "title": "Buy and Sell / Business",
+      "pinyin": "mǎimài",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "多少钱",
+      "title": "How much money?",
+      "pinyin": "duōshǎo qián",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "哪国人",
+      "title": "Which nationality?",
+      "pinyin": "nǎ guórén",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "人民币",
+      "title": "RMB (Chinese Yuan)",
+      "pinyin": "rénmínbì",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "牛奶",
+      "title": "Milk",
+      "pinyin": "niúnǎi",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "奶茶",
+      "title": "Milk tea",
+      "pinyin": "nǎichá",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "红茶",
+      "title": "Black tea",
+      "pinyin": "hóngchá",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "冰的",
+      "title": "Iced (drink)",
+      "pinyin": "bīng de",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "饺子",
+      "title": "Dumplings",
+      "pinyin": "jiǎozi",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "包子",
+      "title": "Steamed bun",
+      "pinyin": "bāozi",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "米饭",
+      "title": "Cooked rice",
+      "pinyin": "mǐfàn",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "炒饭",
+      "title": "Fried rice",
+      "pinyin": "chǎofàn",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "卡",
+      "title": "Card",
+      "pinyin": "kǎ",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "早上好",
+      "title": "Good morning",
+      "pinyin": "zǎoshang hǎo",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "苹果",
+      "title": "Apple",
+      "pinyin": "píngguǒ",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "看东西",
+      "title": "Look at things",
+      "pinyin": "kàn dōngxī",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "东西",
+      "title": "Thing / East and West",
+      "pinyin": "dōngxī",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "电影",
+      "title": "Movie",
+      "pinyin": "diànyǐng",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "电视",
+      "title": "Television",
+      "pinyin": "diànshì",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "普通话",
+      "title": "Mandarin Chinese",
+      "pinyin": "pǔtōnghuà",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "读",
+      "title": "Read (academic sense)",
+      "pinyin": "dú",
+      "pronounce": "",
+      "comment": "Used for reading in an academic or studying context.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "喜欢",
+      "title": "Like",
+      "pinyin": "xǐhuān",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "想",
+      "title": "Want / Think / Miss",
+      "pinyin": "xiǎng",
+      "pronounce": "xiang",
+      "comment": "Can mean to want, to think, or to miss someone/something.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "要",
+      "title": "Want / To be going to",
+      "pinyin": "yào",
+      "pronounce": "yao",
+      "comment": "Can mean to want, or to indicate a future action.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "会",
+      "title": "Can / Will (future)",
+      "pinyin": "huì",
+      "pronounce": "hui",
+      "comment": "Can mean to know how to do something, or to indicate a future action.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "去",
+      "title": "Go",
+      "pinyin": "qù",
+      "pronounce": "qu",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "和",
+      "title": "And",
+      "pinyin": "hé",
+      "pronounce": "he",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "生日",
+      "title": "Birthday",
+      "pinyin": "shēngrì",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "生日快乐",
+      "title": "Happy birthday",
+      "pinyin": "shēngrì kuàilè",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "如果",
+      "title": "If",
+      "pinyin": "rúguǒ",
+      "pronounce": "ru guo",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "做了吗",
+      "title": "Have you done it?",
+      "pinyin": "zuò le ma",
+      "pronounce": "",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "工作",
+      "title": "Work / Job",
+      "pinyin": "gōngzuò",
+      "pronounce": "gong zuo",
+      "comment": "Can mean to work or a job.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "鸡",
+      "title": "Chicken",
+      "pinyin": "jī",
+      "pronounce": "jī",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "鱼",
+      "title": "Fish",
+      "pinyin": "yú",
+      "pronounce": "yú",
+      "comment": "The 'u' is pronounced like the French 'u'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "猪肉",
+      "title": "Pork",
+      "pinyin": "zhūròu",
+      "pronounce": "zhūròu",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "虾",
+      "title": "Shrimp",
+      "pinyin": "xiā",
+      "pronounce": "xiā",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我对虾过敏!",
+      "title": "I'm allergic to shrimp!",
+      "pinyin": "Wǒ duì xiā guòmǐn!",
+      "pronounce": "Wǒ duì xiā guòmǐn!",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "面条",
+      "title": "Noodles",
+      "pinyin": "miàntiáo",
+      "pronounce": "mian tiao",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "辣椒",
+      "title": "Chili pepper",
+      "pinyin": "làjiāo",
+      "pronounce": "làjiāo",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "可乐",
+      "title": "Cola",
+      "pinyin": "kělè",
+      "pronounce": "kê lê",
+      "comment": "Often refers to Coca-Cola.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "汽水",
+      "title": "Soda / Carbonated drink",
+      "pinyin": "qìshuǐ",
+      "pronounce": "qìshuǐ",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "啤酒",
+      "title": "Beer",
+      "pinyin": "píjiǔ",
+      "pronounce": "píjiǔ",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "酒精",
+      "title": "Alcohol",
+      "pinyin": "jiǔjīng",
+      "pronounce": "jiǔjīng",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "服务员",
+      "title": "Waiter / Waitress / Attendant",
+      "pinyin": "fúwùyuán",
+      "pronounce": "fúwùyuán",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "汽车",
+      "title": "Car",
+      "pinyin": "qìchē",
+      "pronounce": "qìchē",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "公共汽车",
+      "title": "Bus",
+      "pinyin": "gōnggòng qìchē",
+      "pronounce": "gōnggòng qìchē",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "飞机",
+      "title": "Airplane",
+      "pinyin": "fēijī",
+      "pronounce": "fēijī",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "火车",
+      "title": "Train",
+      "pinyin": "huǒchē",
+      "pronounce": "huǒchē",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "站",
+      "title": "Station (bus/train/metro)",
+      "pinyin": "zhàn",
+      "pronounce": "zhàn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "票",
+      "title": "Ticket",
+      "pinyin": "piào",
+      "pronounce": "piào",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "出口",
+      "title": "Exit",
+      "pinyin": "chūkǒu",
+      "pronounce": "chūkǒu",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "入口",
+      "title": "Entrance",
+      "pinyin": "rùkǒu",
+      "pronounce": "rùkǒu",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "酒店",
+      "title": "Hotel",
+      "pinyin": "jiǔdiàn",
+      "pronounce": "jiǔdiàn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "电梯",
+      "title": "Elevator",
+      "pinyin": "diàntī",
+      "pronounce": "diàntī",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "楼",
+      "title": "Floor (of a building)",
+      "pinyin": "lóu",
+      "pronounce": "lôu",
+      "comment": "Example: 3º andar: 三楼 (sān lóu)",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "无线网",
+      "title": "Wi-Fi",
+      "pinyin": "wúxiàn wǎng",
+      "pronounce": "wúxiàn wǎng",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "密码",
+      "title": "Password",
+      "pinyin": "mìmǎ",
+      "pronounce": "mìmǎ",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "手机",
+      "title": "Cell phone",
+      "pinyin": "shǒujī",
+      "pronounce": "shǒujī",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "电脑",
+      "title": "Computer",
+      "pinyin": "diànnǎo",
+      "pronounce": "diànnǎo",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "电子邮件",
+      "title": "Email",
+      "pinyin": "diànzǐ yóujiàn",
+      "pronounce": "diànzǐ yóujiàn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "商场",
+      "title": "Shopping mall / Commercial center",
+      "pinyin": "shāngchǎng",
+      "pronounce": "shāngchǎng",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "中心",
+      "title": "Center",
+      "pinyin": "zhōngxīn",
+      "pronounce": "zhōngxīn",
+      "comment": "Example: 电子中心 (diànzǐ zhōngxīn) - electronics center.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "银行",
+      "title": "Bank",
+      "pinyin": "yínháng",
+      "pronounce": "yínháng",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "自动取款机",
+      "title": "ATM",
+      "pinyin": "zìdòng qǔkuǎn jī",
+      "pronounce": "zìdòng qǔkuǎn jī",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "兑换",
+      "title": "Exchange (currency)",
+      "pinyin": "duìhuàn",
+      "pronounce": "duìhuàn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "医院",
+      "title": "Hospital",
+      "pinyin": "yīyuàn",
+      "pronounce": "yīyuàn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "药店",
+      "title": "Pharmacy",
+      "pinyin": "yàodiàn",
+      "pronounce": "yàodiàn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "药",
+      "title": "Medicine",
+      "pinyin": "yào",
+      "pronounce": "yào",
+      "comment": "To take medicine is '吃药' (chī yào) - literally 'eat medicine'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "市场",
+      "title": "Market",
+      "pinyin": "shìchǎng",
+      "pronounce": "shìchǎng",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "旅游景点",
+      "title": "Tourist attraction",
+      "pinyin": "lǚyóu jǐngdiǎn",
+      "pronounce": "lǚyóu jǐngdiǎn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "这里有什么旅游景点？",
+      "title": "What are the tourist attractions here?",
+      "pinyin": "Zhèlǐ yǒu shénme lǚyóu jǐngdiǎn?",
+      "pronounce": "Zhèlǐ yǒu shénme lǚyóu jǐngdiǎn?",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "照片",
+      "title": "Photo",
+      "pinyin": "zhàopiàn",
+      "pronounce": "zhàopiàn",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "传统",
+      "title": "Tradition / Traditional",
+      "pinyin": "chuántǒng",
+      "pronounce": "chuántǒng",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "这里有哪些传统的地方？",
+      "title": "Which traditional places are here?",
+      "pinyin": "Zhèlǐ yǒu nǎxiē chuántǒng de dìfāng?",
+      "pronounce": "Zhèlǐ yǒu nǎxiē chuántǒng de dìfāng?",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "多少钱？",
+      "title": "How much does it cost?",
+      "pinyin": "Duōshǎo qián?",
+      "pronounce": "Tuô shau tchián?",
+      "comment": "",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

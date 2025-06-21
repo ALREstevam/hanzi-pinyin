@@ -1,0 +1,32 @@
+.tableOfContents {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.tableOfContents h2 {
+  font-size: 1.5em;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.tableOfContents ul {
+  list-style: none;
+  padding: 0;
+}
+
+.tableOfContents li {
+  margin-bottom: 5px;
+}
+
+.tableOfContents a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.tableOfContents a:hover {
+  text-decoration: underline;
+}

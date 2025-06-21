@@ -115,3 +115,30 @@
   justify-content: center;
   border-top: solid 1px #ccc;
 }
+
+.flowChartButton {
+  position: absolute;
+  top: 0.5em; /* Adjust as needed for desired spacing from top */
+  right: 0.5em; /* Adjust as needed for desired spacing from right */
+  background-color: transparent; /* Make background transparent */
+  border: none; /* Remove border */
+  cursor: pointer;
+  padding: 0;
+  width: 1.8em; /* Same size as card title text */
+  height: 1.8em; /* Same size as card title text */
+  border-radius: 50%; /* Make it circular */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Hide parts of the image that go outside the circle */
+}
+
+.flowChartButton:hover {
+  background-color: rgba(0, 0, 0, 0.1); /* Subtle hover effect */
+}
+
+.flowChartIcon {
+  width: 100%; /* Make icon fill the button */
+  height: 100%; /* Make icon fill the button */
+  object-fit: contain; /* Ensure the entire image is visible within the bounds */
+}
