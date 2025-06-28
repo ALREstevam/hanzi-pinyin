@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://ALREstevam.github.io/hanzi-pinyin",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -13,6 +14,7 @@
     "@types/react-dom": "^18.0.0",
     "clsx": "^2.1.1",
     "hanzi": "^2.1.5",
+    "mermaid": "^11.7.0",
     "pinyin-pro": "^3.26.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -47,6 +49,7 @@
     ]
   },
   "devDependencies": {
+    "@types/mermaid": "^9.2.0",
     "@types/webpack-env": "^1.18.8"
   }
 }
