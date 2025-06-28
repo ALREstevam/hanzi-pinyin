@@ -1,0 +1,34 @@
+{
+  "section": {
+    "h1": "Quantifiers and Adverbs"
+  },
+  "items": [
+    {
+      "text": "都",
+      "title": "All / Both",
+      "pinyin": "dōu",
+      "pronounce": "doh",
+      "comment": "Used to indicate 'all' or 'both' when referring to a group.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "他们都",
+      "title": "They all",
+      "pinyin": "tāmen dōu",
+      "pronounce": "tah-men doh",
+      "comment": "Refers to 'all of them'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我们都",
+      "title": "We all",
+      "pinyin": "wǒmen dōu",
+      "pronounce": "wuh-men doh",
+      "comment": "Refers to 'all of us'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}

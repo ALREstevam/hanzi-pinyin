@@ -794,6 +794,15 @@
       "comment": "",
       "type": "BASE",
       "titlePrefix": ""
+    },
+    {
+      "text": "送去",
+      "title": "Send / Take (something to a place)",
+      "pinyin": "sòng qù",
+      "pronounce": "song choo",
+      "comment": "Used to indicate sending or taking something to a destination.",
+      "type": "BASE",
+      "titlePrefix": ""
     }
   ]
 }

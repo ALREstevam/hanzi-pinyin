@@ -1,0 +1,430 @@
+{
+  "section": {
+    "h1": "Basic Chinese Sentence Structures"
+  },
+  "items": [
+    {
+      "text": "主语 + 谓语 + 宾语",
+      "title": "Subject + Verb + Object (SVO)",
+      "pinyin": "zhǔyǔ + wèiyǔ + bīnyǔ",
+      "pronounce": "joo-yoo + way-yoo + been-yoo",
+      "comment": "The most fundamental sentence structure in Mandarin Chinese.",
+      "type": "FORMULA",
+      "titlePrefix": "➡️"
+    },
+    {
+      "text": "我吃苹果。",
+      "title": "Example: I eat apples.",
+      "pinyin": "wǒ chī píngguǒ",
+      "pronounce": "wuh chrr ping-gwo",
+      "comment": "我 (wǒ) = Subject, 吃 (chī) = Verb, 苹果 (píngguǒ) = Object.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + (很) + 形容词",
+      "title": "Subject + (hěn) + Adjective",
+      "pinyin": "zhǔyǔ + (hěn) + xíngróngcí",
+      "pronounce": "joo-yoo + (hun) + shing-rong-tsrr",
+      "comment": "Used to describe a subject with an adjective. The verb 'to be' (是) is generally not used before adjectives; '很' (hěn) is often used for smoothness, not necessarily 'very'.",
+      "type": "FORMULA",
+      "titlePrefix": "✨"
+    },
+    {
+      "text": "他很高。",
+      "title": "Example: He is tall.",
+      "pinyin": "tā hěn gāo",
+      "pronounce": "tah hun gaow",
+      "comment": "他 (tā) = Subject, 很 (hěn) = adverb (often used before adjectives), 高 (gāo) = Adjective.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 谓语 + 宾语 + 吗？",
+      "title": "Subject + Verb + Object + 吗 (ma)?",
+      "pinyin": "zhǔyǔ + wèiyǔ + bīnyǔ + ma",
+      "pronounce": "joo-yoo + way-yoo + been-yoo + ma",
+      "comment": "Formed by adding the question particle 吗 (ma) to the end of a statement to make a yes/no question.",
+      "type": "FORMULA",
+      "titlePrefix": "❓"
+    },
+    {
+      "text": "你吃苹果吗？",
+      "title": "Example: Do you eat apples?",
+      "pinyin": "nǐ chī píngguǒ ma?",
+      "pronounce": "nee chrr ping-gwo ma?",
+      "comment": "吗 (ma) turns the statement into a yes/no question.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 不/没 + 谓语 + 宾语",
+      "title": "Subject + 不/没 + Verb + Object (Negative Sentences)",
+      "pinyin": "zhǔyǔ + bù/méi + wèiyǔ + bīnyǔ",
+      "pronounce": "joo-yoo + boo/may + way-yoo + been-yoo",
+      "comment": "不 (bù) negates present/future actions or states; 没 (méi) negates past actions or existence.",
+      "type": "FORMULA",
+      "titlePrefix": "🚫"
+    },
+    {
+      "text": "我不吃苹果。",
+      "title": "Example: I don’t eat apples.",
+      "pinyin": "wǒ bù chī píngguǒ",
+      "pronounce": "wuh boo chrr ping-gwo",
+      "comment": "不 (bù) is used for present negation.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我没吃苹果。",
+      "title": "Example: I didn't eat apples.",
+      "pinyin": "wǒ méi chī píngguǒ",
+      "pronounce": "wuh may chrr ping-gwo",
+      "comment": "没 (méi) is used for past negation.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 有/是 + 宾语",
+      "title": "Subject + 有/是 + Object (Possession/Equivalence)",
+      "pinyin": "zhǔyǔ + yǒu/shì + bīnyǔ",
+      "pronounce": "joo-yoo + yoh/shrr + been-yoo",
+      "comment": "有 (yǒu) means 'to have'; 是 (shì) means 'to be' and is used for equivalence or identification.",
+      "type": "FORMULA",
+      "titlePrefix": "🤝"
+    },
+    {
+      "text": "我有一本书。",
+      "title": "Example: I have a book.",
+      "pinyin": "wǒ yǒu yì běn shū",
+      "pronounce": "wuh yoh yee bun shoo",
+      "comment": "有 (yǒu) expresses possession.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "这是我的书。",
+      "title": "Example: This is my book.",
+      "pinyin": "zhè shì wǒ de shū",
+      "pronounce": "juh shrr wuh duh shoo",
+      "comment": "是 (shì) expresses identification, combined with the possessive '的' (de).",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "这/那 + 是 + 名词",
+      "title": "这/那 + 是 + Noun (Demonstratives)",
+      "pinyin": "zhè/nà + shì + míngcí",
+      "pronounce": "juh/nah + shrr + ming-tsrr",
+      "comment": "这 (zhè) means 'this'; 那 (nà) means 'that'.",
+      "type": "FORMULA",
+      "titlePrefix": "👉"
+    },
+    {
+      "text": "这是苹果。",
+      "title": "Example: This is an apple.",
+      "pinyin": "zhè shì píngguǒ",
+      "pronounce": "juh shrr ping-gwo",
+      "comment": "Using '这' to point to 'this'.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "那是书。",
+      "title": "Example: That is a book.",
+      "pinyin": "nà shì shū",
+      "pronounce": "nah shrr shoo",
+      "comment": "Using '那' to point to 'that'.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 在 (zài) + 地点",
+      "title": "Subject + 在 (zài) + Location (Location/Being At)",
+      "pinyin": "zhǔyǔ + zài + dìdiǎn",
+      "pronounce": "joo-yoo + dzai + dee-dyen",
+      "comment": "在 (zài) means 'to be at' or 'in'.",
+      "type": "FORMULA",
+      "titlePrefix": "📍"
+    },
+    {
+      "text": "你在哪里？",
+      "title": "Example: Where are you?",
+      "pinyin": "nǐ zài nǎlǐ?",
+      "pronounce": "nee dzai nah-lee?",
+      "comment": "哪里 (nǎlǐ) or 哪儿 (nǎr) are used for 'where'.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "我在家。",
+      "title": "Example: I am at home.",
+      "pinyin": "wǒ zài jiā",
+      "pronounce": "wuh dzai jyah",
+      "comment": "家 (jiā) means 'home'.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "时间表达 + 主语 + 谓语 + 宾语",
+      "title": "Time Expression + Subject + Verb + Object (Time Placement)",
+      "pinyin": "shíjiān biǎodá + zhǔyǔ + wèiyǔ + bīnyǔ",
+      "pronounce": "shrr-jyen byaow-dah + joo-yoo + way-yoo + been-yoo",
+      "comment": "Time expressions usually come before the subject or immediately after the subject.",
+      "type": "FORMULA",
+      "titlePrefix": "⏰"
+    },
+    {
+      "text": "今天我吃苹果。",
+      "title": "Example: Today, I eat apples.",
+      "pinyin": "jīntiān wǒ chī píngguǒ",
+      "pronounce": "jeen-tyen wuh chrr ping-gwo",
+      "comment": "今天 (jīntiān) is the time expression.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 谓语 + 得 (de) + 形容词/副词",
+      "title": "Subject + Verb + 得 (de) + Adjective/Adverb (Degree of Action/Result)",
+      "pinyin": "zhǔyǔ + wèiyǔ + de + xíngróngcí/fùcí",
+      "pronounce": "joo-yoo + way-yoo + duh + shing-rong-tsrr/foo-tsrr",
+      "comment": "得 (de) connects a verb to a complement describing the manner or result of the action.",
+      "type": "FORMULA",
+      "titlePrefix": "💯"
+    },
+    {
+      "text": "他吃得很快。",
+      "title": "Example: He eats quickly.",
+      "pinyin": "tā chī de hěn kuài",
+      "pronounce": "tah chrr duh hun kwai",
+      "comment": "很快 (hěn kuài) describes how he eats.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 要 (yào) + 谓语/名词",
+      "title": "Subject + 要 (yào) + Verb/Noun (Expressing Want/Intention)",
+      "pinyin": "zhǔyǔ + yào + wèiyǔ/míngcí",
+      "pronounce": "joo-yoo + yaow + way-yoo/ming-tsrr",
+      "comment": "要 (yào) expresses desire, intention, or a future action.",
+      "type": "FORMULA",
+      "titlePrefix": "🎯"
+    },
+    {
+      "text": "我要喝水。",
+      "title": "Example: I want to drink water.",
+      "pinyin": "wǒ yào hē shuǐ",
+      "pronounce": "wuh yaow huh shway",
+      "comment": "要 (yào) + verb phrase.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "你要吃苹果吗？",
+      "title": "Example: Do you want to eat apples?",
+      "pinyin": "nǐ yào chī píngguǒ ma?",
+      "pronounce": "nee yaow chrr ping-gwo ma?",
+      "comment": "Asking about desire.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 会 (huì) + 谓语",
+      "title": "Subject + 会 (huì) + Verb (Expressing Ability/Future)",
+      "pinyin": "zhǔyǔ + huì + wèiyǔ",
+      "pronounce": "joo-yoo + hway + way-yoo",
+      "comment": "会 (huì) means 'can' (skill/ability) or 'will' (future event).",
+      "type": "FORMULA",
+      "titlePrefix": "💡"
+    },
+    {
+      "text": "我会说汉语。",
+      "title": "Example: I can speak Chinese.",
+      "pinyin": "wǒ huì shuō Hànyǔ",
+      "pronounce": "wuh hway shwor Han-yoo",
+      "comment": "Expressing an acquired skill.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "他会来。",
+      "title": "Example: He will come.",
+      "pinyin": "tā huì lái",
+      "pronounce": "tah hway lai",
+      "comment": "Expressing a future event.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 可以 (kěyǐ) + 谓语",
+      "title": "Subject + 可以 (kěyǐ) + Verb (Expressing Permission/Possibility)",
+      "pinyin": "zhǔyǔ + kěyǐ + wèiyǔ",
+      "pronounce": "joo-yoo + kuh-yee + way-yoo",
+      "comment": "可以 (kěyǐ) means 'can' (permission) or 'it is possible'.",
+      "type": "FORMULA",
+      "titlePrefix": "✅"
+    },
+    {
+      "text": "我可以在这里学习吗？",
+      "title": "Example: Can I study here?",
+      "pinyin": "wǒ kěyǐ zài zhèlǐ xuéxí ma?",
+      "pronounce": "wuh kuh-yee dzai juh-lee shwe-shee ma?",
+      "comment": "Asking for permission.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 想 (xiǎng) + 谓语",
+      "title": "Subject + 想 (xiǎng) + Verb (Expressing Desire/Thinking)",
+      "pinyin": "zhǔyǔ + xiǎng + wèiyǔ",
+      "pronounce": "joo-yoo + shyang + dong-tsrr",
+      "comment": "想 (xiǎng) means 'to want to' (a less strong desire than 要) or 'to think'.",
+      "type": "FORMULA",
+      "titlePrefix": "💭"
+    },
+    {
+      "text": "我想去中国。",
+      "title": "Example: I want to go to China.",
+      "pinyin": "wǒ xiǎng qù Zhōngguó",
+      "pronounce": "wuh shyang chyoo Jong-gwo",
+      "comment": "Expressing a desire or intention.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 地点 + 谓语",
+      "title": "Subject + Location + Verb (Verb preceded by Location)",
+      "pinyin": "zhǔyǔ + dìdiǎn + wèiyǔ",
+      "pronounce": "joo-yoo + dee-dyen + way-yoo",
+      "comment": "The location of an action often comes before the verb.",
+      "type": "FORMULA",
+      "titlePrefix": "🗺️"
+    },
+    {
+      "text": "他在图书馆看书。",
+      "title": "Example: He reads books in the library.",
+      "pinyin": "tā zài túshūguǎn kàn shū",
+      "pronounce": "tah dzai too-shoo-gwan kan shoo",
+      "comment": "图书馆 (túshūguǎn) is the location, placed before the verb 看 (kàn).",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 动词 + 了 (le)",
+      "title": "Subject + Verb + 了 (le) (Completion of Action)",
+      "pinyin": "zhǔyǔ + dòngcí + le",
+      "pronounce": "joo-yoo + dong-tsrr + luh",
+      "comment": "了 (le) indicates the completion of an action or a change of state.",
+      "type": "FORMULA",
+      "titlePrefix": "✔️"
+    },
+    {
+      "text": "我吃了饭。",
+      "title": "Example: I have eaten.",
+      "pinyin": "wǒ chī le fàn",
+      "pronounce": "wuh chrr luh fan",
+      "comment": "Indicates the action of eating is completed.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "下雨了。",
+      "title": "Example: It's raining now. (It started raining.)",
+      "pinyin": "xià yǔ le",
+      "pronounce": "shyah yoo luh",
+      "comment": "Indicates a change of state (from not raining to raining).",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 动词 + 过 (guo)",
+      "title": "Subject + Verb + 过 (guo) (Past Experience)",
+      "pinyin": "zhǔyǔ + dòngcí + guo",
+      "pronounce": "joo-yoo + dong-tsrr + gwo",
+      "comment": "过 (guo) indicates that an action has been experienced at least once in the past.",
+      "type": "FORMULA",
+      "titlePrefix": "🔙"
+    },
+    {
+      "text": "我去过中国。",
+      "title": "Example: I have been to China.",
+      "pinyin": "wǒ qù guo Zhōngguó",
+      "pronounce": "wuh chyoo gwo Jong-gwo",
+      "comment": "Indicates the experience of going to China.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "主语 + 动词 + 着 (zhe)",
+      "title": "Subject + Verb + 着 (zhe) (Continuous Action/State)",
+      "pinyin": "zhǔyǔ + dòngcí + zhe",
+      "pronounce": "joo-yoo + dong-tsrr + juh",
+      "comment": "着 (zhe) indicates a continuous state or action.",
+      "type": "FORMULA",
+      "titlePrefix": "🔄"
+    },
+    {
+      "text": "他穿着衣服。",
+      "title": "Example: He is wearing clothes.",
+      "pinyin": "tā chuān zhe yīfu",
+      "pronounce": "tah chwan juh ee-foo",
+      "comment": "Describes the continuous state of wearing clothes.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "疑问代词替换 (谁/什么/哪里/几/多少)",
+      "title": "Interrogative Pronoun Questions (Who/What/Where/How many/How much)",
+      "pinyin": "yíwèn dàicí tìhuàn",
+      "pronounce": "ee-wen dai-tsrr tee-hwan",
+      "comment": "Interrogative pronouns directly replace the unknown part of the sentence.",
+      "type": "FORMULA",
+      "titlePrefix": "🤔"
+    },
+    {
+      "text": "谁是你的老师？",
+      "title": "Example: Who is your teacher?",
+      "pinyin": "shéi shì nǐ de lǎoshī?",
+      "pronounce": "shay shrr nee duh laow-shrr?",
+      "comment": "谁 (shéi) replaces the subject.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "你买什么？",
+      "title": "Example: What do you buy?",
+      "pinyin": "nǐ mǎi shénme?",
+      "pronounce": "nee mai shun-muh?",
+      "comment": "什么 (shénme) replaces the object.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "你家在哪里？",
+      "title": "Example: Where is your home?",
+      "pinyin": "nǐ jiā zài nǎlǐ?",
+      "pronounce": "nee jyah dzai nah-lee?",
+      "comment": "哪里 (nǎlǐ) replaces the location.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "你有几本书？",
+      "title": "Example: How many books do you have? (for numbers under 10)",
+      "pinyin": "nǐ yǒu jǐ běn shū?",
+      "pronounce": "nee yoh jee bun shoo?",
+      "comment": "几 (jǐ) for small quantities.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "这个多少钱？",
+      "title": "Example: How much is this? (for larger quantities/money)",
+      "pinyin": "zhège duōshǎo qián?",
+      "pronounce": "juh-guh dwor-shaow chyen?",
+      "comment": "多少 (duōshǎo) for larger quantities or money.",
+      "type": "EXAMPLE",
+      "titlePrefix": ""
+    }
+  ]
+}
