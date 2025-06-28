@@ -28,8 +28,8 @@ const HanziDefinition: FunctionComponent<HanziCharDefinitionComponentProps> = ({
 
   return (
     <div className={styles.definition}>
-      {definition?.map((el) => (
-        <DefinitionItem item={el} />
+      {definition?.map((el, index) => (
+        <DefinitionItem key={el.join('-') + index} item={el} />
       ))}
     </div>
   );

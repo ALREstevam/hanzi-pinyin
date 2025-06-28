@@ -1,0 +1,41 @@
+.mermaidContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: auto; /* In case the diagram is larger than the container */
+  height: 100%;
+}
+
+.mermaidChart {
+  /* Specific styles for the SVG rendered by Mermaid */
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* Ensures the entire SVG is visible within the container */
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+.explanationContainer {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #e9ecef;
+  border-radius: 8px;
+  border: 1px solid #dee2e6;
+  width: 100%; /* Ensure it takes full width of its parent */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+}
+
+.explanationText {
+  white-space: pre-wrap; /* Preserve whitespace and wrap text */
+  font-family: monospace; /* Maintain formatting for code-like output */
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: #343a40;
+}

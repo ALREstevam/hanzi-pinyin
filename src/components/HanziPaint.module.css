@@ -1,0 +1,36 @@
+.hanziPlaceholder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  font-size: 3em;
+  border: 1px dashed #ccc;
+  color: #888;
+}
+
+.hanziError {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  font-size: 1.5em;
+  border: 1px solid red;
+  color: red;
+  text-align: center;
+}
+
+.hanziSvgContainer {
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Styles for the SVG itself, if needed */
+.hanziSvgContainer svg {
+  width: 100%;
+  height: 100%;
+}

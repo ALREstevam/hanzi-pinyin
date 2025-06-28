@@ -46,7 +46,7 @@ function App() {
   );
 }
 
-const buildCard = (data: CardData, section:string, index:number) => (
+const buildCard = (data: CardData, section:string, index:number | string) => (
   <Card
     key={`${data.text}-${section}-${index}`}
     pronounce={data.pronounce}
@@ -63,8 +63,8 @@ const buildCard = (data: CardData, section:string, index:number) => (
 );
 
 const buildDialog = (items: CardData[], title:string, section:string, index:number) => (
-  <Dialog key={items.map(it=>it.pinyin).join('')} title={title}>
-    {items.map((item, itemidx) => buildCard(item, section, index*itemidx))}
+  <Dialog key={`${title}-${section}-${index}`} title={title}>
+    {items.map((item, itemidx) => buildCard(item, section, `${index}-${itemidx}`))}
   </Dialog>
 )
 

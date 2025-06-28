@@ -7,8 +7,9 @@ export interface HanziRadicalProps {
   char: string;
 }
 const HanziRadical = ({ char }: HanziRadicalProps) => {
-  const component = HanziDictionary.decomposeIntoRadicals(char).map((el) => (
+  const component = HanziDictionary.decomposeIntoRadicals(char).map((el, index) => (
     <span
+      key={el.radical + index} // Using radical + index for uniqueness, as radical might not be unique if a character has multiple identical radicals
       className={styles.radical}
       onClick={() => {
         TextToSpeech.say(el.radical, "zh-CN", "SLOW");

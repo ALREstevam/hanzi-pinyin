@@ -6,6 +6,7 @@ import clsx from "clsx";
 import Person from "./Person";
 import CopyAndSay from "../utils/CopyAndSay";
 import Modal from "./Modal";
+import MermaidDiagram from "./MermaidDiagram";
 
 type CardProps = CardData;
 
@@ -28,7 +29,7 @@ const Card: FunctionComponent<CardProps> = (data) => {
 
   const textToSay = data.textToSay || data.text;
 
-  const items = text.map((char) => <CardItem char={char} />);
+  const items = text.map((char, index) => <CardItem key={index} char={char} />);
 
   return (
     <div className={styles.card} style={getFlex(items.length)}>
@@ -61,7 +62,7 @@ const Card: FunctionComponent<CardProps> = (data) => {
       {text.length > 1 && (
         <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)}>
           <h2>Flow Chart for {title}</h2>
-          <p>This is a placeholder for the flow chart content.</p>
+          <MermaidDiagram phrase={fullText} pinyin={pinyin} />
         </Modal>
       )}
 
