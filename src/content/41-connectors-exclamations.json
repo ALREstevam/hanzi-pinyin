@@ -1,0 +1,133 @@
+{
+  "section": {
+    "h1": "Connectors and Exclamations"
+  },
+  "items": [
+    {
+      "text": "如果",
+      "title": "If",
+      "pinyin": "rúguǒ",
+      "pronounce": "roo-gwo",
+      "comment": "Used to introduce a conditional clause.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "但是",
+      "title": "But",
+      "pinyin": "dànshì",
+      "pronounce": "dan-shrr",
+      "comment": "Used to introduce a contrasting statement.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "就",
+      "title": "Then / Just",
+      "pinyin": "jiù",
+      "pronounce": "jyo",
+      "comment": "Indicates a consequence or a sense of 'then' or 'just'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "也",
+      "title": "Also / Too",
+      "pinyin": "yě",
+      "pronounce": "yeh",
+      "comment": "Means 'also' or 'too'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "所以",
+      "title": "So / Therefore",
+      "pinyin": "suǒyǐ",
+      "pronounce": "swo-yee",
+      "comment": "Indicates a consequence or result.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "下午",
+      "title": "Afternoon",
+      "pinyin": "xiàwǔ",
+      "pronounce": "shyah-woo",
+      "comment": "Refers to the afternoon.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "如果...就...",
+      "title": "If... then...",
+      "pinyin": "rúguǒ... jiù...",
+      "pronounce": "roo-gwo... jyo...",
+      "comment": "A common structure for conditional sentences.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "为什么",
+      "title": "Why",
+      "pinyin": "wèishénme",
+      "pronounce": "way-shun-muh",
+      "comment": "Used to ask for a reason.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "因为",
+      "title": "Because",
+      "pinyin": "yīnwèi",
+      "pronounce": "een-way",
+      "comment": "Used to give a reason.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "只",
+      "title": "Only",
+      "pinyin": "zhǐ",
+      "pronounce": "jrr",
+      "comment": "Means 'only' or 'just'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "吧",
+      "title": "Ba (suggestion/soft command)",
+      "pinyin": "ba",
+      "pronounce": "ba",
+      "comment": "A modal particle used to indicate suggestion, soft command, or agreement.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "好吧",
+      "title": "Okay / All right",
+      "pinyin": "hǎo ba",
+      "pronounce": "how ba",
+      "comment": "Used to express agreement or resignation.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "学习吧",
+      "title": "Let's study / Study!",
+      "pinyin": "xuéxí ba",
+      "pronounce": "shwe-shee ba",
+      "comment": "A suggestion or encouragement to study.",
+      "type": "BASE",
+      "titlePrefix": ""
+    },
+    {
+      "text": "如果下雨，我就不玩了。",
+      "title": "If it rains, I will not play.",
+      "pinyin": "rúguǒ xià yǔ, wǒ jiù bù wán le.",
+      "pronounce": "roo-gwo shyah yoo, wuh jyo boo wan luh.",
+      "comment": "Example of a conditional sentence using '如果...就...'.",
+      "type": "BASE",
+      "titlePrefix": ""
+    }
+  ]
+}
