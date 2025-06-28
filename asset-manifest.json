@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hanzi-pinyin/static/css/main.4dade7d8.css",
-    "main.js": "/hanzi-pinyin/static/js/main.86778394.js",
+    "main.js": "/hanzi-pinyin/static/js/main.d6429be2.js",
     "static/js/152.865fe065.chunk.js": "/hanzi-pinyin/static/js/152.865fe065.chunk.js",
     "static/js/660.bc01af64.chunk.js": "/hanzi-pinyin/static/js/660.bc01af64.chunk.js",
     "static/js/333.b0d1c70a.chunk.js": "/hanzi-pinyin/static/js/333.b0d1c70a.chunk.js",
@@ -43,7 +43,7 @@
     "static/js/729.ba68f1d4.chunk.js": "/hanzi-pinyin/static/js/729.ba68f1d4.chunk.js",
     "index.html": "/hanzi-pinyin/index.html",
     "main.4dade7d8.css.map": "/hanzi-pinyin/static/css/main.4dade7d8.css.map",
-    "main.86778394.js.map": "/hanzi-pinyin/static/js/main.86778394.js.map",
+    "main.d6429be2.js.map": "/hanzi-pinyin/static/js/main.d6429be2.js.map",
     "152.865fe065.chunk.js.map": "/hanzi-pinyin/static/js/152.865fe065.chunk.js.map",
     "660.bc01af64.chunk.js.map": "/hanzi-pinyin/static/js/660.bc01af64.chunk.js.map",
     "333.b0d1c70a.chunk.js.map": "/hanzi-pinyin/static/js/333.b0d1c70a.chunk.js.map",
@@ -80,6 +80,6 @@
   },
   "entrypoints": [
     "static/css/main.4dade7d8.css",
-    "static/js/main.86778394.js"
+    "static/js/main.d6429be2.js"
   ]
 }
